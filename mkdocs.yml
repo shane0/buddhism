@@ -70,7 +70,7 @@ plugins:
       tags_file: index.md
       # tags_file: tags.md
   - search
-  - glightbox
+  # - glightbox
   - git-revision-date-localized:
       enable_creation_date: true
   - mike:
