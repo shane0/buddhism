@@ -1,0 +1,98 @@
+site_name: shane0 buddhism 
+dev_addr: "127.0.0.1:3000"
+# repo_url: https://github.com/shane0/workflow
+# edit_uri: /-/blob/master/
+# edit_uri: edit/main/docs/ 
+
+theme:
+  name: material
+  # custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/git-alt
+  features:
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_javascript:
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"
+  - "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js?tex"
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.critic
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+      url_download: true
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - abbr
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+
+plugins:
+  - tags:
+      tags_file: index.md
+      # tags_file: tags.md
+  - search
+  - glightbox
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  - mike:
+
+extra:
+  version:
+    provider: mike
+    default: 2023
+  social:
+    - icon: "fontawesome/brands/wordpress-simple"
+      link: "https://shanenull.com/"
+    - icon: "fontawesome/brands/python"
+      link: "https://shane0.pythonanywhere.com/"
+    - icon: "fontawesome/brands/youtube"
+      link: "http://www.youtube.com/c/ShaneNull"
+    - icon: "fontawesome/brands/instagram"
+      link: "https://www.instagram.com/nullshane/"
+    - icon: "fontawesome/brands/bandcamp"
+      link: "https://earmassagetherapist.bandcamp.com/releases"
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/shane0"
+    - icon: "fontawesome/brands/gitlab"
+      link: "https://gitlab.com/shane0"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/shane_null"
+    - icon: "fontawesome/brands/linkedin"
+      link: "https://www.linkedin.com/in/shanenull"
