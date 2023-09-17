@@ -1,11 +1,8 @@
 
-!!! info
+## current
 
-        - a no nonsense & powerful workflow
-        - project templates: [cookiecutter](https://github.com/cookiecutter/cookiecutter)
-        - task tracking: [todocli](https://github.com/francoischalifour/todo-cli)
-        - modular command line automation: [click](https://click.palletsprojects.com/en/8.1.x/)
-        - powerful documentaiton: [mkdocs](https://squidfunk.github.io/mkdocs-material/)
-        - measurable readability: [lexi](https://github.com/Rebilly/lexi)
+- using this site to save some notes
+- on a 20 week meditation class I'm enrolled in
+- on buddhism books I'm reading
 
 [TAGS]

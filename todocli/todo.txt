@@ -1,1 +1,6 @@
-(A) this did not add the .gitignore file
+
+(B) migrate my previous book journals from buddhism books I studied during covid
+(A) migrate my previous book journals from the old mkdocs site
+(B) migrate my previous book journals from joplin
+(B) migrate my previous book journals from obsidian
+(A) migrate wordpress content here

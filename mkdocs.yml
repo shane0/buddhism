@@ -1,8 +1,10 @@
 site_name: shane0 buddhism 
 dev_addr: "127.0.0.1:3000"
-# repo_url: https://github.com/shane0/workflow
+repo_url: https://github.com/shane0/buddhism 
+# github
+edit_uri: edit/main/docs/ 
+# gitlab 
 # edit_uri: /-/blob/master/
-# edit_uri: edit/main/docs/ 
 
 theme:
   name: material
@@ -69,8 +71,8 @@ plugins:
       # tags_file: tags.md
   - search
   - glightbox
-  # - git-revision-date-localized:
-  #     enable_creation_date: true
+  - git-revision-date-localized:
+      enable_creation_date: true
   - mike:
 
 extra:
