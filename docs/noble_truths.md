@@ -1,6 +1,6 @@
 # noble truths
 
-- dukkha: impermanence
-- samudaya: causes
-- nirodha: cessation
-- magga: path
+- DUKKHA: impermanence
+- SAMUDAYA: causes
+- NIRODHA: cessation
+- MAGGA: path
