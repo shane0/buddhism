@@ -1,4 +1,3 @@
-
 (B) migrate my previous book journals from buddhism books I studied during covid
 (A) migrate my previous book journals from the old mkdocs site
 (B) migrate my previous book journals from joplin
