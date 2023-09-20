@@ -19,7 +19,7 @@ There are a number of ways to realize the Middle Way Reality. Here are a few exa
 
 - Meditation: Meditation is a practice that can help us to calm the mind and to see things more clearly. When we meditate, we focus on the present moment and we observe our thoughts and feelings without judgment.
 - Koans: Koans are paradoxical riddles that can help us to break through our conceptualizations and to see reality directly. Koans are typically studied with a teacher or in a group setting.
-- Sutra Study: Sutra study can help us to understand the teachings of the Buddha and to develop wisdom. When we study sutras, we should not just focus on the intellectual meaning of the text. We should also try to understand the teachings on a personal and experiential level.
+- SUTRA Study: Sutra study can help us to understand the teachings of the Buddha and to develop wisdom. When we study sutras, we should not just focus on the intellectual meaning of the text. We should also try to understand the teachings on a personal and experiential level.
 
 ### Conclusion
 

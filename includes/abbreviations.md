@@ -15,4 +15,7 @@
 *[CICD]:    an automation buzzword for running commands using a yml file in an online repository - continuous integration of build and test, and/or deployment
 *[MAHAYANA]:    mahayana buddhism a type of Buddhism that focuses on helping others become Buddhas
 *[LINJI]:    linji was a Zen Buddhist monk who lived in China. He taught that people can suddenly become enlightened by seeing through their own delusions.
-*[Soto]:  soto Zen is a type of Buddhism that focuses on sitting quietly and being mindful of the present moment.
+*[SOTO]:  soto Zen is a type of Buddhism that focuses on sitting quietly and being mindful of the present moment.
+*[SUTRA]:   A sutra is a short, concise discourse of the Buddha that is considered to be an authoritative source of Buddhist teachings.
+*[NICHIREN]:   Nichiren Zen is a type of Japanese Buddhism that teaches that chanting the daimoku, or title of the Lotus Sutra, is the most direct way to achieve enlightenment. It also emphasizes the importance of social engagement and compassion for others.
+*[DAIMOKU]: Daimoku is the title of the Lotus Sutra, Nam-myoho-renge-kyo, which Nichiren Buddhism teaches is the most direct way to achieve enlightenment.

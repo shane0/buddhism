@@ -45,7 +45,7 @@ Zen Buddhism seeks to transcend conventional logic and language to directly perc
 
 ## buddha jewel lineage
 
-Sure. The Zen lineage at Buddha Jewel Monastery in Shoreline, Washington, can be traced back to the 6th century Indian Buddhist monk Bodhidharma. Bodhidharma is considered the founder of Zen Buddhism, and his teachings were passed down through a lineage of masters.
+The Zen lineage at Buddha Jewel Monastery can be traced back to the 6th century Indian Buddhist monk Bodhidharma. Bodhidharma is considered the founder of Zen Buddhism, and his teachings were passed down through a lineage of masters.
 
 The lineage at Buddha Jewel Monastery descends from the Linji school of Zen, which was founded by the Chinese monk Linji Yixuan in the 9th century. The Linji school is known for its emphasis on direct pointing to the truth, and its methods of teaching include koan introspection and silent illumination.
 

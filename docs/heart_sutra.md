@@ -1,5 +1,6 @@
 # heart sutra
 
+- a SUTRA is a short, concise discourse of the buddha that is considered to be an authoritative source of buddhist teachings
 - <https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation>
 - translation by thich nhat hanh
 
