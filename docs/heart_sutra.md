@@ -1,3 +1,7 @@
+---
+tags:
+  - lesson 1 
+---
 # heart sutra
 
 - a SUTRA is a short, concise discourse of the buddha that is considered to be an authoritative source of buddhist teachings

@@ -1,3 +1,7 @@
+---
+tags:
+  - lesson 1 
+---
 # noble truths
 
 - DUKKHA: impermanence
