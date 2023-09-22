@@ -1,6 +1,9 @@
 ---
 tags:
   - lesson 1 
+  - magga 
+  - nirodha
+  - noble truths
 ---
 # noble truths
 

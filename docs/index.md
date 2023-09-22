@@ -2,6 +2,8 @@
 
 ### physics & buddhism
 
+- sometimes I compare these two for fun
+
 PHYSICS: the world is made up of tiny things called atoms, atoms follow rules with no known exceptions, atoms form different shapes and these shapes are not permanent
 
 BUDDHISM: suffering comes from clinging to things and wishing they last forever
