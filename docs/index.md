@@ -1,9 +1,9 @@
 
 [home](https://shane0.github.io){ .md-button }
-[workflow template](../workflow/){ .md-button }
+[workflow template](https://shane0.github.io/workflow/){ .md-button }
 
-[cheatsheets](../cheatsheets/){ .md-button }
-[retro games](../adventure/){ .md-button }
+[cheatsheets](https://shane0.github.io/cheatsheets/){ .md-button }
+[retro games](https://shane0.github.io/adventure/){ .md-button }
 
 ## buddhism research notes
 
