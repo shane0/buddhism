@@ -1,3 +1,11 @@
+
+[home](https://shane0.github.io){ .md-button }
+[workflow template](workflow/){ .md-button }
+[buddhism](buddhism/){ .md-button }
+
+[cheatsheets](cheatsheets/){ .md-button }
+[retro games](adventure/){ .md-button }
+
 ## buddhism research notes
 
 ### physics & buddhism
