@@ -26,37 +26,37 @@ Here is a table of the top 50 most essential Sanskrit words required to understa
 
 **Other essential Sanskrit words:**
 
-* **Abhidhamma** | The third major division of the Pali Canon, which contains philosophical and analytical teachings on the nature of reality.
-* **Ajahn** | Thai honorific title for a senior Buddhist monk.
-* **Bhikkhu** | Buddhist monk.
-* **Bhikkhuni** | Buddhist nun.
-* **Bodhichitta** | The aspiration to achieve enlightenment for the benefit of all beings.
-* **Buddha** | An awakened being; one who has achieved enlightenment.
-* **Citta** | Mind.
-* **Dhammacakra** | The wheel of dharma; a Buddhist symbol that represents the Buddha's teachings.
-* **Dhammavinaya** | The Buddhist teachings and monastic code.
-* **Dukkha-samudaya** | The cause of suffering; the second noble truth in Buddhism.
-* **Dukkha-nirodha** | The end of suffering; the third noble truth in Buddhism.
-* **Dukkha-nirodha-magga** | The path to the end of suffering; the fourth noble truth in Buddhism.
-* **Jhana** | Meditative absorption.
-* **Karma-vipaka** | The results of karma.
-* **Klesha** | Mental afflictions; defilements that prevent us from achieving enlightenment.
-* **Layperson** | A person who is not a Buddhist monk or nun.
-* **Loka** | World.
-* **Mara** | The tempter; the embodiment of evil and ignorance.
-* **Metta** | Loving-kindness; a Buddhist meditation practice that cultivates love and compassion for all beings.
-* **Moksha** | Liberation; freedom from suffering and rebirth.
-* **Nibbana** | Pali equivalent of nirvana.
-* **Pali** | The language in which the Theravada Buddhist scriptures were originally written.
-* **Paramita** | Perfection; a quality that must be developed in order to achieve enlightenment.
-* **Precepts** | Moral guidelines that Buddhists follow.
-* **Refuge** | The three refuges are the Buddha, the dhamma, and the sangha.
-* **Samma ditthi** | Right view; the first factor of the eightfold path.
-* **Samma sankappa** | Right thought; the second factor of the eightfold path.
-* **Samma vaca** | Right speech; the third factor of the eightfold path.
-* **Samma kammanta** | Right action; the fourth factor of the eightfold path.
-* **Samma ajiva** | Right livelihood; the fifth factor of the eightfold path.
-* **Samma vayama** | Right effort; the sixth factor of the eightfold path.
-* **Samma sati** | Right mindfulness; the seventh factor of the eightfold path.
-* **Samma samadhi** | Right concentration; the eighth factor of the eightfold path.
-* **Sangha** | The community of Buddhist monks and nuns; the third refuge.
+* **Abhidhamma** | The third major division of the Pali Canon, which contains philosophical and analytical teachings on the nature of reality
+* **Ajahn** | Thai honorific title for a senior Buddhist monk
+* **Bhikkhu** | Buddhist monk
+* **Bhikkhuni** | Buddhist nun
+* **Bodhichitta** | The aspiration to achieve enlightenment for the benefit of all beings
+* **Buddha** | An awakened being; one who has achieved enlightenment
+* **Citta** | Mind
+* **Dhammacakra** | The wheel of dharma; a Buddhist symbol that represents the Buddha's teachings
+* **Dhammavinaya** | The Buddhist teachings and monastic code
+* **Dukkha-samudaya** | The cause of suffering; the second noble truth in Buddhism
+* **Dukkha-nirodha** | The end of suffering; the third noble truth in Buddhism
+* **Dukkha-nirodha-magga** | The path to the end of suffering; the fourth noble truth in Buddhism
+* **Jhana** | Meditative absorption
+* **Karma-vipaka** | The results of karma
+* **Klesha** | Mental afflictions; defilements that prevent us from achieving enlightenment
+* **Layperson** | A person who is not a Buddhist monk or nun
+* **Loka** | World
+* **Mara** | The tempter; the embodiment of evil and ignorance
+* **Metta** | Loving-kindness; a Buddhist meditation practice that cultivates love and compassion for all beings
+* **Moksha** | Liberation; freedom from suffering and rebirth
+* **Nibbana** | Pali equivalent of nirvana
+* **Pali** | The language in which the Theravada Buddhist scriptures were originally written
+* **Paramita** | Perfection; a quality that must be developed in order to achieve enlightenment
+* **Precepts** | Moral guidelines that Buddhists follow
+* **Refuge** | The three refuges are the Buddha, the dhamma, and the sangha
+* **Samma ditthi** | Right view; the first factor of the eightfold path
+* **Samma sankappa** | Right thought; the second factor of the eightfold path
+* **Samma vaca** | Right speech; the third factor of the eightfold path
+* **Samma kammanta** | Right action; the fourth factor of the eightfold path
+* **Samma ajiva** | Right livelihood; the fifth factor of the eightfold path
+* **Samma vayama** | Right effort; the sixth factor of the eightfold path
+* **Samma sati** | Right mindfulness; the seventh factor of the eightfold path
+* **Samma samadhi** | Right concentration; the eighth factor of the eightfold path
+* **Sangha** | The community of Buddhist monks and nuns; the third refuge
