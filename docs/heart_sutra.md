@@ -1,17 +1,42 @@
 ---
 tags:
   - lesson 1 
+  - sutra 
 ---
 # heart sutra
 
-- a SUTRA is a short, concise discourse of the buddha that is considered to be an authoritative source of buddhist teachings
-- <https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation>
-- translation by thich nhat hanh
+<iframe width="966" height="544" src="https://www.youtube.com/embed/_p1_RZpCQos" title="𝐓𝐡𝐞 𝐇𝐞𝐚𝐫𝐭 𝐒𝐮𝐭𝐫𝐚 ~  Prajñāpāramitā  ~ The Perfection of Wisdom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## prerequisite jargon
+
+!!! info
+
+     mouse over or touch all caps words to see them defined
+
+- SUTRA
+- MANTRA
+- [AVALOKITESHVARA](#avalokiteshvara)
+- PRAJNAPARAMITA
+- BODHISATTVA
+- EMPTINESS
+- SKHANDAS
+- SARIPUTRA
+- NIRVANA
+- BODHI
+- SVAHA
+- DHAMMAS
+
+## gate
+
+- **Gate, gate, paragate, parasamgate. Bodhi! Svaha!**
+- (This mantra means "Gone, gone, utterly gone, beyond gone. Enlightenment! Hail!")
 
 ## the insight that brings us to the other shore
 
-avalokiteshvara
+- <https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation>
+- translation by thich nhat hanh
 
+- avalokiteshvara
 - while practicing deeply with
 - the insight that brings us to the other shore
 - suddenly discovered that
@@ -91,7 +116,7 @@ avalokiteshvara
 - Gate, Gate, Paragate, Parasamgate, Bodhi Svaha!
 - Gate, Gate, Paragate, Parasamgate, Bodhi Svaha!
 
-## **Avalokiteshvara**
+## Avalokiteshvara
 
 Avalokiteshvara is a bodhisattva, or enlightened being, in Mahayana Buddhism.
 
@@ -308,3 +333,83 @@ Yesterday, on the 21st of August, after finishing the translation at around 3a.m
 - With love and trust,
 - Your Teacher
 - Aśoka Institute, EIAB, Waldbröl
+
+## more explanation
+
+**Heart Sutra**
+
+Avalokiteshvara, the Bodhisattva of Compassion,
+While practicing deeply the Perfection of Wisdom,
+Perceived that all five skandhas are empty,
+And thus transcended all suffering.
+
+Form is emptiness, emptiness is form.
+Form is not other than emptiness, emptiness is not other than form.
+Whatever is form is emptiness, whatever is emptiness is form.
+
+Perceptions, feelings, thinking, and consciousness,
+Also are empty.
+
+The eye, ear, nose, tongue, body, and mind,
+Also are empty.
+
+Form, sound, smell, taste, touch, and phenomena,
+Also are empty.
+
+Even the mind itself is empty.
+
+There is no ignorance, and no end to ignorance.
+There is no old age and death, and no end to old age and death.
+There is no suffering, no cause of suffering, no end to suffering,
+And no path to follow.
+
+There is no wisdom to attain, and no attainment of wisdom.
+
+Because nothing exists, no Bodhisattvas exist,
+And because Bodhisattvas do not exist, no great compassion exists.
+And because no great compassion exists, no means, no objects of support,
+No wisdom, and no attainment of wisdom exist.
+
+Therefore, Shariputra,
+In the absence of everything, the Bodhisattva
+Dwells in the Perfection of Wisdom,
+Without hindrance, and without fear.
+Completely severed from delusion,
+He realizes Nirvana.
+
+All the Buddhas of the past, present, and future,
+Through the Perfection of Wisdom,
+Have attained full enlightenment.
+
+Therefore, the Perfection of Wisdom,
+Is the great sacred mantra,
+The great bright mantra,
+The supreme mantra,
+The unequaled mantra,
+Which can eliminate all suffering.
+It is truth, and it is not false.
+
+So know that the Perfection of Wisdom
+Is the great mantra,
+The radiant clear mantra,
+The supreme mantra,
+The unequaled mantra,
+Which can eliminate all suffering.
+
+**Gate, gate, paragate, parasamgate. Bodhi! Svaha!**
+
+(This mantra means "Gone, gone, utterly gone, beyond gone. Enlightenment! Hail!")
+
+The Heart Sutra is one of the most popular and important sutras in Mahayana Buddhism. It is a concise but profound teaching on the emptiness of all phenomena and the path to enlightenment. The sutra is often recited as a mantra, and it is also studied and contemplated by Buddhists of all levels of experience.
+
+The Heart Sutra begins with the Bodhisattva Avalokiteshvara, who is known for his compassion. While practicing the Perfection of Wisdom, Avalokiteshvara realized that all five skandhas are empty. The skandhas are the five components of our personality: form, perception, feeling, thinking, and consciousness.
+
+When we realize that the skandhas are empty, we see that they are not permanent or substantial. They are constantly changing and interdependent. This realization leads to the transcendence of all suffering.
+
+The Heart Sutra then goes on to explain that all phenomena are empty, including form, sound, smell, taste, touch, and phenomena. This does not mean that these things do not exist. It simply means that they are not inherent or fixed. They are empty of self-nature.
+
+When we understand the emptiness of all phenomena, we are free from attachment and aversion. We are also free from the fear of death and rebirth.
+
+The Heart Sutra concludes by stating that the Bodhisattva dwells in the Perfection of Wisdom, without hindrance and without fear. The Bodhisattva has completely severed delusion and realizes Nirvana.
+
+The Heart Sutra is a powerful teaching that can help us to understand the nature of reality and the path to enlightenment. It is a sutra that can be studied and contemplated for a lifetime.
