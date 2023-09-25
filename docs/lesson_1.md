@@ -1,11 +1,17 @@
 ---
 tags:
   - lesson 1 
+  - heart sutra
+  - sitt
+  - walk
+  - work 
+  - dharma
 ---
 # lesson 1
 
 ## format
 
+- heart sutra
 - sitting meditation
 - walking meditation
 - dharma lessons

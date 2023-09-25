@@ -1,3 +1,8 @@
+---
+tags:
+  - lesson 1 
+  - sit 
+---
 # sitting meditation strength
 
 - Plank:
