@@ -1,5 +1,7 @@
 # book: record of linji
 
+<iframe width="966" height="544" src="https://www.youtube.com/embed/YVv3vqLqUS4" title="𝐓𝐡𝐞 𝐑𝐞𝐜𝐨𝐫𝐝 𝐨𝐟 𝐋𝐢𝐧𝐣𝐢 ~ Master Linji Yixuan ~ Zen Buddhism (Chan)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 > The miracle is not to walk on water. The miracle is to walk on earth
 
 LINJI was a Zen Buddhist monk who lived in China. He taught that people can suddenly become enlightened by seeing through their own delusions.
