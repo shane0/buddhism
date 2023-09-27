@@ -1,7 +1,8 @@
 ---
 tags:
   - lesson 1 
-  - sutra 
+  - sutra
+  - shunyata 
 ---
 # heart sutra
 
@@ -413,3 +414,9 @@ When we understand the emptiness of all phenomena, we are free from attachment a
 The Heart Sutra concludes by stating that the Bodhisattva dwells in the Perfection of Wisdom, without hindrance and without fear. The Bodhisattva has completely severed delusion and realizes Nirvana.
 
 The Heart Sutra is a powerful teaching that can help us to understand the nature of reality and the path to enlightenment. It is a sutra that can be studied and contemplated for a lifetime.
+
+## from zen reader
+
+> MATTER AND EMPTINESS - 
+SEEING MATTER itself as emptiness produces great wisdom so one does not dwell in birth and death; seeing emptiness as equivalent to matter produces great compassion so one does not dwell in nirvana.
+>> Yun-feng Excerpt From The Zen Reader Thomas Cleary

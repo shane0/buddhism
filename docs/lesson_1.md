@@ -11,9 +11,9 @@ tags:
 
 ## format
 
-- heart sutra
-- sitting meditation
-- walking meditation
+- [heart sutra](heart_sutra.md)
+- [sitting meditation](sitting.md)
+- [walking meditation](walking.md)
 - dharma lessons
 
 ## topics

@@ -1,3 +1,8 @@
+---
+tags:
+  - lineages 
+  - nichiren 
+---
 # nichiren
 
 NICHIREN Zen is a type of Japanese Buddhism that teaches that chanting the DAIMOKU (title of the Lotus SUTRA)

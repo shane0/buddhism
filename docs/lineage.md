@@ -1,3 +1,12 @@
+---
+tags:
+  - lineages 
+  - soto 
+  - linji 
+  - rinzai
+  - caodong 
+  - nichiren 
+---
 # lineages
 
 ## Rinzai / Linji vs Soto / Caodong

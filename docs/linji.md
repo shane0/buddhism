@@ -1,8 +1,41 @@
+---
+tags:
+  - lineages 
+  - linji 
+  - books 
+---
 # book: record of linji
 
 <iframe width="966" height="544" src="https://www.youtube.com/embed/YVv3vqLqUS4" title="𝐓𝐡𝐞 𝐑𝐞𝐜𝐨𝐫𝐝 𝐨𝐟 𝐋𝐢𝐧𝐣𝐢 ~ Master Linji Yixuan ~ Zen Buddhism (Chan)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## references smentioned in this book
+
+The Record of Linji (臨濟錄; Japanese: Rinzai-goroku), also known as the Linji Yulu, is a collection of sermons, statements, and acts attributed to the Chinese Zen master Linji Yixuan (d. 866). It is one of the most important texts in the Rinzai school of Zen Buddhism, and it is also widely studied by practitioners of other Zen schools.
+
+The Record of Linji is full of fundamental Buddhist references, but some of the most important include:
+
+- **The Four Noble Truths:** The Four Noble Truths are the foundation of Buddhist teaching. They teach that life is suffering, that the cause of suffering is attachment, that there is a way to end suffering, and that the way to end suffering is the Noble Eightfold Path.
+- **The Noble Eightfold Path:** The Noble Eightfold Path is the Buddhist path to enlightenment. It consists of eight factors: right understanding, right thought, right speech, right action, right livelihood, right effort, right mindfulness, and right concentration.
+- **The Three Jewels:** The Three Jewels are the Buddha, the Dharma, and the Sangha. They are the three objects of refuge for Buddhists.
+- **The Three Pure Precepts:** The Three Pure Precepts are refraining from harming others, refraining from taking what is not freely given, and refraining from sexual misconduct.
+- **The Five Precepts:** The Five Precepts are an extension of the Three Pure Precepts, and they include refraining from lying and refraining from using intoxicants.
+- **Dependent Origination:** Dependent Origination is the Buddhist teaching that all phenomena are interconnected and interdependent. Nothing exists in isolation, and everything is conditioned by everything else.
+- **Emptiness:** Emptiness is the Buddhist teaching that all phenomena are lacking in inherent existence. They are empty of self-nature and permanent identity.
+- **The Buddha Mind:** The Buddha Mind is the inherent potential for enlightenment that all beings possess. It is pure, perfect, and complete.
+
+In addition to these specific references, the Record of Linji is also steeped in the general spirit and outlook of Buddhism. It emphasizes the importance of direct experience, the need to let go of attachments, and the possibility of enlightenment for all beings.
+
+Here are a few specific examples of fundamental Buddhist references in the Record of Linji:
+
+- **"If you meet a buddha, kill the buddha. If you meet your forefather, kill him. If you meet an arhat, kill him. If you meet a wise man, kill him. Kill all the things in the world that you have learned. Then there will be no more problems."** (Case 48)
+- **"The Buddhas of the ten directions have only one message: the true Mind of your own being."** (Case 49)
+- **"The true Dharma is without form. It is the very essence of reality. It is not something that can be named or described. It is simply what is."** (Case 50)
+- **"The Buddha-way is not something that you can achieve through effort. It is already present and perfect within you. All you need to do is let go of your attachments and see it for yourself."** (Case 51)
+
+The Record of Linji is a challenging text, but it is also a deeply rewarding one. It offers profound insights into the nature of reality and the path to enlightenment.
 > The miracle is not to walk on water. The miracle is to walk on earth
+
+---
 
 LINJI was a Zen Buddhist monk who lived in China. He taught that people can suddenly become enlightened by seeing through their own delusions.
 
