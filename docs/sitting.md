@@ -1,6 +1,7 @@
 ---
 tags:
   - lesson 1 
+  - week 2 
   - sit 
 ---
 # sitting meditation strength

@@ -36,35 +36,53 @@ tags:
 
 ### week 1 Mindfulness & Fundamentals
 
-- how to sit and walk
+- how to [sit](sitting.md)
+- how to [walk](walking.md)
 - abc - aware - be with - change
 - look at your feet
 - story of young & old monk walking at night
 
-### week 2
+### week 2 meditation
 
 - shamatha & vipassana
-- meditation journal
+- [meditation journal](record.md)
 - first noble truth: suffering
 - second noble truth: cause of suffering
 - third noble truth: ending suffering nirvana
 - fourth noble truth: links of dependent origination
 
-### week 3
+### week 3 karma
 
-### week 4
+- [Karma and Causality](karma.md)
+- story: [changing destiny](karma.md) & clowns habits pie in the face & karma piggy bank with holes in it &
 
-### week 5
+### week 4 buddha
 
-### week 6
+- The Buddha
 
-### week 7
+### week 5 jewels
 
-### week 8
+- Three Jewels / Three Refuges
 
-### week 9
+### week 6 tenets
+
+- Four Tenets of Chung Tai
+
+### week 7 precepts
+
+- Five Precepts & Ten
+
+### week 8 deeds
+
+- Wholesome Deeds
+
+### week 9 Vegetarianism
+
+- Vegetarianism & Buddhism
 
 ### week 10
+
+- Four Noble Truths
 
 ## second ten weeks
 

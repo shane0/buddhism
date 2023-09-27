@@ -1,6 +1,7 @@
 ---
 tags:
   - lesson 1 
+  - week 1 
   - walking 
 ---
 # walking meditation
