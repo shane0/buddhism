@@ -9,6 +9,10 @@ tags:
 
 <iframe width="966" height="544" src="https://www.youtube.com/embed/_p1_RZpCQos" title="𝐓𝐡𝐞 𝐇𝐞𝐚𝐫𝐭 𝐒𝐮𝐭𝐫𝐚 ~  Prajñāpāramitā  ~ The Perfection of Wisdom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/anf1yQEyEDA?si=3NFPCEXJY38-x3Qm&amp;clip=UgkxNozNHQGli6xv696bEj2nsjosZrTSMyGH&amp;clipt=EKzPngEYrZeiAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="966" height="543" src="https://www.youtube.com/embed/anf1yQEyEDA" title="The Heart Sutra — (a word for word explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## prerequisite jargon
 
 !!! info
@@ -418,6 +422,6 @@ The Heart Sutra is a powerful teaching that can help us to understand the nature
 
 ## from zen reader
 
-> MATTER AND EMPTINESS - 
+> MATTER AND EMPTINESS -
 SEEING MATTER itself as emptiness produces great wisdom so one does not dwell in birth and death; seeing emptiness as equivalent to matter produces great compassion so one does not dwell in nirvana.
 >> Yun-feng Excerpt From The Zen Reader Thomas Cleary
