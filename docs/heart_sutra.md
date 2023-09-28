@@ -4,6 +4,7 @@ tags:
   - week 1 
   - sutra
   - shunyata 
+  - bob harris
 ---
 # heart sutra
 

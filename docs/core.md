@@ -1,3 +1,9 @@
+---
+tags:
+  - core 
+  - objects of meditation 
+  - bob harris
+---
 # core
 
 <iframe width="966" height="543" src="https://www.youtube.com/embed/kx8kbUGj1pY" title="Buddhism—Three Core Teachings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -86,12 +92,6 @@ As you can see, the 40 objects of meditation include a number of objects related
 The meditation on death, for example, is a powerful way to remind ourselves of our own mortality and to live our lives more fully. The meditation on decay and disgust can help us to develop compassion for others who are suffering. The meditation on impermanence can help us to appreciate the preciousness of life.
 
 If you are interested in learning more about the 40 objects of meditation, I would recommend reading the following books:
-
-* "The Path of Purification" by Buddhaghosa
-* "The Mind Illuminated" by Culadasa
-* "Waking Up" by Sam Harris
-
-I hope this information is helpful.
 
 * **Ten kasinas (spheres)**: earth, water, fire, air, blue, yellow, red, white, space, and light
 * **Ten asubhas (impurities)**: a bloated corpse, a discolored corpse, a festering corpse, a fissured corpse, a gnawed corpse, a dismembered corpse, a scattered corpse, a bleeding corpse, a worm-eaten corpse, and a skeleton
