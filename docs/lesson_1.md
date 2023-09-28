@@ -12,7 +12,7 @@ tags:
 ## format
 
 - [heart sutra](heart_sutra.md)
-- [sitting meditation](sitting.md)
+- [sitting meditation](breath.md)
 - [walking meditation](walking.md)
 - dharma lessons
 

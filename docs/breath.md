@@ -2,6 +2,7 @@
 tags:
   - lesson 1 
   - sitting 
+  - sit 
 ---
 # counting the breath
 

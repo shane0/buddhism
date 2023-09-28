@@ -76,5 +76,3 @@ Here is a more detailed breakdown of the Zen lineage at Buddha Jewel Monastery:
 [Image of Xu Yun (1840-1959)]
 * **Venerable Master Wei Chueh (born 1939)**: The current lineage holder at Buddha Jewel Monastery.
 [Image of Venerable Master Wei Chueh (born 1939)]
-
-I hope this helps!
