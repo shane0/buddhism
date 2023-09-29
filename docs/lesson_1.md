@@ -1,13 +1,13 @@
 ---
 tags:
-  - lesson 1 
+  - level 1 
   - heart sutra
-  - sitt
+  - sit
   - walk
   - work 
   - dharma
 ---
-# lesson 1
+# level 1
 
 ## format
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - lesson 1 
+  - level 1 
   - week 2 
   - sit 
 ---

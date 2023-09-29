@@ -28,3 +28,4 @@
 *[DHAMMAS]:    Dhammas are the fundamental teachings of Buddhism, which describe the nature of reality and the path to enlightenment Dhammas are also the individual phenomena that make up the universe --  In other words, everything that exists is a dhamma. This includes physical objects, mental states, and even abstract concepts -- Dhammas are characterized by three marks: impermanence (anicca), suffering (dukkha), and non-self (anatta). This means that all dhammas are constantly changing and impermanent, they all lead to suffering, and they all lack any inherent existence or substance.
 *[NIRODHA]:      Nirodha is the Buddhist term for cessation, or the end of suffering and notions
 *[MAGGA]:       Magga is the Buddhist term for the path to the end of suffering
+*[NLP]:   natural language processing software

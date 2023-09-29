@@ -1,8 +1,10 @@
 ---
 tags:
-  - lesson 1 
+  - level 1 
   - sitting 
   - sit 
+  - breath 
+  - support 
 ---
 # counting the breath
 

@@ -1,7 +1,7 @@
 ---
 tags:
   - noble truths 
-  - lesson 1 
+  - level 1 
   - nirodha
   - marks 
   - seals 

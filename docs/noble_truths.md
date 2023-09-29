@@ -1,6 +1,8 @@
 ---
 tags:
-  - lesson 1 
+  - level 1 
+  - dukkha 
+  - samudaya 
   - magga 
   - nirodha
   - noble truths
