@@ -75,7 +75,7 @@ plugins:
   # - glightbox
   # - git-revision-date-localized:
   #     enable_creation_date: true
-  - mike:
+  # - mike:
 
 extra:
   version:
