@@ -4,7 +4,7 @@ tags:
   - no self 
   - interdependence 
   - deduction 
-  - hearth sutra
+  - heart sutra
 ---
 # 6 sense bases
 
