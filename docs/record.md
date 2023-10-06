@@ -1,6 +1,8 @@
 ---
 tags:
   - level 1 
+  - daily 
+  - awareness
 ---
 # meditation record
 
@@ -25,6 +27,7 @@ quality:
 - 10 excellent: I felt calm, focused, joyful... etc.
 
 problems:
+
 D  drowsiness
 W  wandering thoughts
 Bm boredom
@@ -47,7 +50,7 @@ Bk blankness
 
 #### problems encountered
 
-D = drowsiness
-W = wandering thoughts
-Bm =boredom
-Bk = blankness
+- D = drowsiness
+- W = wandering thoughts
+- Bm =boredom
+- Bk = blankness

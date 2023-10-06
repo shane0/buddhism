@@ -2,6 +2,7 @@
 tags:
   - sit 
   - breath 
+  - daily 
   - support 
 ---
 # anapanasati

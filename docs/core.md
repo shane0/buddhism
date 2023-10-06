@@ -8,18 +8,26 @@ tags:
 
 <iframe width="966" height="543" src="https://www.youtube.com/embed/kx8kbUGj1pY" title="Buddhism—Three Core Teachings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+```
+Dīgha Nikāya … long collection 34
+Majjhima Nikāya … (sutta 148) Middle Collection 152
+Saṁyutta Nikāya … themes 2900 425 in english
+Aṅguttara Nikāya … (five remembrances) numerical enumerated etc. 10k 4xx in english
+Khuddaka Nikāya … (solitude 4 8s) Khuddaka Nikāya—the Khuddakapāṭha, Dhammapada, Udāna, Itivuttaka, and Sutta Nipāta
+```
+
 ## The three core teachings of Buddhism are
 
 1. **The Four Noble Truths**
-2. **The Noble Eightfold Path**
-3. **Anatta (no-self)**
+1. **The Noble Eightfold Path**
+1. **Anatta (no-self)**
 
 ### **The Four Noble Truths** are the foundation of Buddhist teachings. They are
 
-1. The truth of suffering (dukkha)
-2. The truth of the cause of suffering (samudaya)
-3. The truth of the end of suffering (nirodha)
-4. The truth of the path that leads to the end of suffering (magga)
+1. The truth of suffering (DUKKHA)
+1. The truth of the cause of suffering (SAMUDAYA)
+1. The truth of the end of suffering (NIRODHA)
+1. The truth of the path that leads to the end of suffering (MAGGA)
 
 ### **The Noble Eightfold Path** is the path to the end of suffering. It consists of eight steps
 

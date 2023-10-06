@@ -3,6 +3,7 @@ tags:
   - level 1 
   - week 1 
   - sutra
+  - daily
   - heart sutra
   - shunyata 
   - bob harris

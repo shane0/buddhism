@@ -1,4 +1,6 @@
 
+![t](images/2022/01/10264e66-b08a-4bcc-af41-7925d11930d4.jpg)
+
 [home](https://shane0.github.io){ .md-button }
 [workflow template](https://shane0.github.io/workflow/){ .md-button }
 
@@ -18,8 +20,6 @@
     - atoms form elements 
     - all elements will eventually become equally mixed together
     - eventually there will be no more pure elements left
-
-![t](images/2022/01/10264e66-b08a-4bcc-af41-7925d11930d4.jpg)
 
 ## buddhism research
 
