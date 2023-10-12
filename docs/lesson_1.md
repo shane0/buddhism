@@ -62,27 +62,27 @@ tags:
 
 ### week 5 jewels
 
-- Three Jewels / Three Refuges
+- group discussion: reflection on meditation, karma, buddha
 
 ### week 6 tenets
 
-- Four Tenets of Chung Tai
+- Three Jewels / Three Refuges
 
 ### week 7 precepts
 
-- Five Precepts & Ten
+- Four Tenets of Chung Tai
 
 ### week 8 deeds
 
-- Wholesome Deeds
+- Five Precepts & Ten
 
 ### week 9 Vegetarianism
 
-- Vegetarianism & Buddhism
+- Wholesome Deeds
 
 ### week 10
 
-- Four Noble Truths
+- Vegetarianism & Buddhism
 
 ## second ten weeks
 
@@ -130,3 +130,7 @@ tags:
 - Causes of Suffering
 - Nirvana
 - Noble Eightfold Path
+
+## additional books
+
+- <https://www.ctworld.org.tw/Buddhist%20e-Books/index.html>

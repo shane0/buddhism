@@ -4,6 +4,8 @@ tags:
 ---
 # primordial confusion
 
+- <https://www.ctworld.org.tw/Buddhist%20e-Books/CTM/CTM233GM/index.html>
+
 <iframe width="966" height="543" src="https://www.youtube.com/embed/2RavAQoqxOY" title="Primordial confusion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## extinguishing illusions

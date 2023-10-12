@@ -52,7 +52,11 @@ At death the goal is to have treated others with equanimity, love and compassion
 
 In buddhism one of the reasons you meditate is to prepare for your death, you can hear more about their traditions in the video above.  In the end what is valued is your ability to remain fully aware your entire life, and to prepare for death at any moment, to remain aware even when asleep and aware specifically during the experience of death, or bardo (transition during death) which has it's own specific set of techniques in some traditions.
 
-## what are the instructions for maranasati?
+## what it means to transcend life and death
+
+- <https://www.ctworld.org.tw/Buddhist%20e-Books/CTM/CTM064GM/index.html>
+
+## additional instructions for maranasati?
 
 The specific instructions for maranasati meditation can vary depending on the specific tradition and the teacher, but here is a general outline of the practice:
 

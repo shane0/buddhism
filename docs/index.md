@@ -7,20 +7,6 @@
 [cheatsheets](https://shane0.github.io/cheatsheets/){ .md-button }
 [retro games](https://shane0.github.io/adventure/){ .md-button }
 
-!!! quote
-
-    everything                             | nothing
-    ---------------------------------------|------------------------------------
-    everything is interdependent           | nothing is independent
-    everything is changing and impermanent | nothing is unchanging and permanent
-
-!!! warning "the laws of physics"
-
-    - everything is made of atoms
-    - atoms form elements 
-    - all elements will eventually become equally mixed together
-    - eventually there will be no more pure elements left
-
 ## buddhism research
 
 - these are my online notes for buddhism and similar traditions
@@ -41,5 +27,21 @@ BUDDHISM: suffering comes from clinging to things and wishing they last forever
 
 - to end suffering, accept and understand things are atoms and atoms change form without exception
 - the practice is about how to let go of ignorance and see the world clearly as it is
+
+!!! info "condensed physics"
+
+    - everything is made of atoms
+    - atoms form elements 
+    - all elements will eventually become equally mixed together
+    - eventually there will be no more pure elements left[^1]
+
+!!! quote "condensed buddhism"
+
+    everything                             | nothing
+    ---------------------------------------|------------------------------------
+    everything is interdependent           | nothing is independent
+    everything is changing and impermanent | nothing is unchanging and permanent
+
+    - when you've got more past then future you learn
 
 [TAGS]

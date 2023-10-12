@@ -9,7 +9,7 @@ tags:
 > The Eightfold Path is a core Buddhist teaching that explains how to end suffering. It is a path of moral conduct, mental discipline, and wisdom. The eight elements of the path are:
 
 - **Right understanding:** Seeing the world as it really is, without our own biases and judgments.
-- **Right thought:** Having thoughts that are kind, compassionate, and wise.
+- **Right thought:** Having thoughts that are kind, compassionate, and wise. <https://www.ctworld.org.tw/Buddhist%20e-Books/CTM/CTM207GM/index.html>
 - **Right speech:** Speaking in a way that is honest, helpful, and truthful.
 - **Right action:** Acting in a way that is ethical, moral, and harmless.
 - **Right livelihood:** Working in a way that is honest and does not harm others.
