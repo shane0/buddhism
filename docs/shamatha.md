@@ -6,7 +6,7 @@ tags:
 ---
 # shamatha
 
-![s](../images/shamatha.jpg)
+![s](images/shamatha.jpg)
 
 ## 9 stages
 

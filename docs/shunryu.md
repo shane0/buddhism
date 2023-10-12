@@ -9,7 +9,7 @@ tags:
 
 ## Shunryu Suzuki
 
-![s](../images/suzuki.jpeg)
+![s](images/suzuki.jpeg)
 
 - <https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki>
 

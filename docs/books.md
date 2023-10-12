@@ -1,6 +1,13 @@
+---
+tags:
+  - books 
+  - heart sutra
+---
 # books
 
-I read slow so usually watch videos on non duality but sometimes at night or if I'm travelling I'll read.
+- sutra study (includes heart sutra)
+
+![h](https://user-images.githubusercontent.com/1454458/274463069-0b2716f3-6bd0-4198-ae44-ac98cbb277d9.png)
 
 ### recent books
 

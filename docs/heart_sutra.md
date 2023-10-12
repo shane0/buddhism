@@ -10,13 +10,17 @@ tags:
 ---
 # heart sutra
 
-<iframe width="966" height="544" src="https://www.youtube.com/embed/_p1_RZpCQos" title="𝐓𝐡𝐞 𝐇𝐞𝐚𝐫𝐭 𝐒𝐮𝐭𝐫𝐚 ~  Prajñāpāramitā  ~ The Perfection of Wisdom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The Heart Sutra. The short title of this most popular and import-
+ant sutra. It contains the very essence of the vast body of the Prajna
+Paramita Sutras in Buddhism.[^1]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/anf1yQEyEDA?si=3NFPCEXJY38-x3Qm&amp;clip=UgkxNozNHQGli6xv696bEj2nsjosZrTSMyGH&amp;clipt=EKzPngEYrZeiAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- <https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html>
+
+<iframe width="966" height="544" src="https://www.youtube.com/embed/_p1_RZpCQos" title="𝐓𝐡𝐞 𝐇𝐞𝐚𝐫𝐭 𝐒𝐮𝐭𝐫𝐚 ~  Prajñāpāramitā  ~ The Perfection of Wisdom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="966" height="543" src="https://www.youtube.com/embed/anf1yQEyEDA" title="The Heart Sutra — (a word for word explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## prerequisite jargon
+## jargon
 
 !!! info
 
@@ -24,18 +28,26 @@ tags:
 
 - SUTRA
 - MANTRA
+- DHARMAS
+- NEITHER_ARISING__NOR_DECREASING
+- EMPTY_NATURE
+- DEEPLY_IMMERSED
 - [AVALOKITESHVARA](#avalokiteshvara)
+- PRAJNA
 - PRAJNAPARAMITA
 - BODHISATTVA
+- FIVE_SKHANDAS
 - EMPTINESS
 - SKHANDAS
-- SARIPUTRA
+- SHARIPUTRA
 - NIRVANA
 - BODHI
 - SVAHA
 - DHAMMAS
 
 ## gate
+
+> gate gate paragate parasamgate bodhi svaha This mantra basically means: go, go, go beyond, go completely beyond to complete enlightenment.[^1]
 
 - **Gate, gate, paragate, parasamgate. Bodhi! Svaha!**
 - (This mantra means "Gone, gone, utterly gone, beyond gone. Enlightenment! Hail!")
@@ -45,7 +57,7 @@ tags:
 - <https://plumvillage.org/about/thich-nhat-hanh/letters/thich-nhat-hanh-new-heart-sutra-translation>
 - translation by thich nhat hanh
 
-- avalokiteshvara
+- AVALOKITESHVARA
 - while practicing deeply with
 - the insight that brings us to the other shore
 - suddenly discovered that
@@ -53,8 +65,8 @@ tags:
 - and with this realisation
 - he overcame all ill-being
 
-- listen sariputra
-- this body itself is emptiness
+- listen SARIPUTRA
+- this body itself is EMPTINESS
 - and emptiness itself is this body
 - tis body is not other than emptiness
 - and emptiness is not other than this body
@@ -126,6 +138,8 @@ tags:
 - Gate, Gate, Paragate, Parasamgate, Bodhi Svaha!
 
 ## Avalokiteshvara
+
+> Avalokiteshvara (Skt.) The Bodhisattva of Great Compassion. Known as Guanyin in Chinese, the most beloved bodhisattva in Asia. The name means "perceiver of cries of the world" or "unhindered perception of the truth." Guanyin Bodhisattva vows to respond to all sentient beings who call out his name in times of distress.
 
 Avalokiteshvara is a bodhisattva, or enlightened being, in Mahayana Buddhism.
 
@@ -347,9 +361,9 @@ Yesterday, on the 21st of August, after finishing the translation at around 3a.m
 
 **Heart Sutra**
 
-Avalokiteshvara, the Bodhisattva of Compassion,
-While practicing deeply the Perfection of Wisdom,
-Perceived that all five skandhas are empty,
+AVALOKITESHVARA, the BODHISATTVA of Compassion,
+While practicing DEEPLY_IMMERSED the Perfection of Wisdom,
+Perceived that all FIVE_SKANDHAS are empty,
 And thus transcended all suffering.
 
 Form is emptiness, emptiness is form.
@@ -428,3 +442,5 @@ The Heart Sutra is a powerful teaching that can help us to understand the nature
 > MATTER AND EMPTINESS -
 SEEING MATTER itself as emptiness produces great wisdom so one does not dwell in birth and death; seeing emptiness as equivalent to matter produces great compassion so one does not dwell in nirvana.
 >> Yun-feng Excerpt From The Zen Reader Thomas Cleary
+
+[^1]: <https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html>
