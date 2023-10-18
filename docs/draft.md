@@ -238,12 +238,28 @@ Quote                                                                           
 
 **Cormac McCarthy:**
 
-* "The world is a cruel and terrible place, and man must be cruel to survive it." - The Road
-* "There is no God in this world, and if there is, He doesn't care about us." - Blood Meridian
-* "The world is a dark and lonely place, and we are all lost in it." - All the Pretty Horses
+- "The world is a cruel and terrible place, and man must be cruel to survive it." - The Road
+- "There is no God in this world, and if there is, He doesn't care about us." - Blood Meridian
+- "The world is a dark and lonely place, and we are all lost in it." - All the Pretty Horses
 
 **Buddha:**
 
-* "Life is suffering." - The Four Noble Truths
-* "The root of all suffering is attachment." - The Four Noble Truths
-* "Death is the only certainty in life." - The Four Noble Truths
+- "Life is suffering." - The Four Noble Truths
+- "The root of all suffering is attachment." - The Four Noble Truths
+- "Death is the only certainty in life." - The Four Noble Truths
+
+-8<- "snippets/meditative.md"
+
+## untrained mind
+
+| Meditative                                                                                                   | Untrained                                                                                                                        |
+|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Unity                                                                                                        | Duality – self separated from objects                                                                                            |
+| Intentional                                                                                                  | Habitual                                                                                                                         |
+| prone to generosity, love, wisdom                                                                            | prone to greed, hate, delusion                                                                                                   |
+| Karma – aware of condition & causes and effects                                                              | unaware of Karma and conditioning                                                                                                |
+| Open awareness or inter-being meaning knowing the observer and experience are interconnected and inseparable | Habitually conditioned to observing as a fixed sensation based center that is separated from the experience that is disconnected |
+| Cessation of identification with impermanent things including consciousness and mental objects               | Habitually identified with fleeting thoughts often tied to fears of past and future and fleeting circumstances                   |
+| Intentionally cultivating wisdom, awareness and compassion                                                   | Attaching and rejecting - Observation obscured by notions                                                                        |
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/nNcFquUuKww" title="Give Up Your Conclusions | Sadhguru" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

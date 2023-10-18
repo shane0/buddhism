@@ -4,5 +4,4 @@
 (B) migrate my previous book journals from obsidian
 (B) migrate wordpress content here
 (A) record meditations
-(A) w5
 (A) w6
