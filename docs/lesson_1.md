@@ -50,6 +50,7 @@ tags:
 - second noble truth: cause of suffering
 - third noble truth: ending suffering nirvana
 - fourth noble truth: links of dependent origination
+- four foundations: body, feelings, mind, phenomenon
 
 ### week 3 karma
 
@@ -71,6 +72,7 @@ tags:
 ### week 7 precepts
 
 - Four Tenets of Chung Tai
+- respect is the antidote to arrogance
 
 ### week 8 deeds
 
