@@ -36,6 +36,7 @@ tags:
 
 ### week 1 Mindfulness & Fundamentals
 
+- [heart sutra](heart_sutra.md)
 - how to [sit](sitting.md)
 - how to [walk](walking.md)
 - abc - aware - be with - change
@@ -59,30 +60,30 @@ tags:
 
 ### week 4 buddha
 
-- The Buddha
+- [The Buddha](buddha.md)
 
-### week 5 jewels
+### week 5 group discussion
 
-- group discussion: reflection on meditation, karma, buddha
+- group discussion
 
-### week 6 tenets
+### week 6
 
-- Three Jewels / Three Refuges
+- [Three Jewels / Three Refuges](three_jewels.md)
 
-### week 7 precepts
+### week 7 tenets
 
-- Four Tenets of Chung Tai
+- [Four Tenets of Chung Tai](tenets.md)
 - respect is the antidote to arrogance
 
-### week 8 deeds
+### week 8 precepts
 
 - Five Precepts & Ten
 
-### week 9 Vegetarianism
+### week 9 wholesome deeds
 
 - Wholesome Deeds
 
-### week 10
+### week 10 Vegetarianism
 
 - Vegetarianism & Buddhism
 
