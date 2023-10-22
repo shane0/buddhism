@@ -2,8 +2,21 @@
 tags:
   - daily 
   - awareness
+  - enlightenment
+  - pure awareness
+  - right mindfulness
+  - awareness of reflection
+  - awareness of observation
+  - consciousness
 ---
 # awareness
+
+- enlightenment
+- pure
+- right mindfulness
+- reflection
+- observation
+- consciousness
 
 !!! note "Pure and intrinsic awareness (jue-xing)"
 

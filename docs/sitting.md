@@ -3,6 +3,7 @@ tags:
   - level 1 
   - week 2 
   - sit 
+  - meditation 
 ---
 # sitting meditation strength
 

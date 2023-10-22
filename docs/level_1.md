@@ -6,6 +6,8 @@ tags:
   - walk
   - work 
   - dharma
+  - meditation 
+  - skillful 
 ---
 # level 1
 
@@ -15,6 +17,7 @@ tags:
 - [sitting meditation](breath.md)
 - [walking meditation](walking.md)
 - dharma lessons
+- dedication of merits
 
 ## topics
 

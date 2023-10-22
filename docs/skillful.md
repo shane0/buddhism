@@ -1,3 +1,8 @@
+---
+tags:
+  - skillful 
+  - awareness of reflection
+---
 # skillful means
 
 !!! note

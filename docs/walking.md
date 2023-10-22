@@ -3,6 +3,7 @@ tags:
   - level 1 
   - week 1 
   - walking 
+  - meditation 
 ---
 # walking meditation
 

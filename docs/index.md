@@ -1,21 +1,22 @@
 
-![t](images/2022/01/10264e66-b08a-4bcc-af41-7925d11930d4.jpg)
+[breathing](https://shane0.github.io/buddhism/breath/){ .md-button } [sitting](https://shane0.github.io/buddhism/sit/){ .md-button } [walking](https://shane0.github.io/buddhism/walking/){ .md-button } [cooking](https://shane0.github.io/buddhism/recipes/){ .md-button } [eating](https://shane0.github.io/buddhism/eat/){ .md-button } [working](https://shane0.github.io/buddhism/samu/){ .md-button } [other](https://shane0.github.io/buddhism/samu/){ .md-button }
+
+## buddhism research
+
+- these are my online notes for buddhism and similar traditions
+- buddhism overlaps science but the main topic is buddhism
+- currently I am taking a mahayana [20 week linji chan buddhism class](level_1.md)
+- also reading books in the chan & zen traditions so there are notes on those
+- previously I kept notes on therevada, vajrayana and dzogchen which I will migrate here
+- note: I use natural language processors so some of this content is robotic
+- like this example with [carbon and origination](origination.md)
 
 [home](https://shane0.github.io){ .md-button }
 [workflow template](https://shane0.github.io/workflow/){ .md-button }
 
 [cheatsheets](https://shane0.github.io/cheatsheets/){ .md-button }
 [retro games](https://shane0.github.io/adventure/){ .md-button }
-
-## buddhism research
-
-- these are my online notes for buddhism and similar traditions
-- buddhism overlaps science but the main topic is buddhism
-- currently I am taking a mahayana [20 week linji chan buddhism class](lesson_1.md)
-- also reading books in the chan & zen traditions so there are notes on those
-- previously I kept notes on therevada, vajrayana and dzogchen which I will migrate here
-- note: I use natural language processors so some of this content is robotic
-- like this example with [carbon and origination](origination.md)
+![t](images/2022/01/10264e66-b08a-4bcc-af41-7925d11930d4.jpg)
 
 ## a scientific take on buddhism
 
