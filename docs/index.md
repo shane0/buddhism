@@ -1,5 +1,5 @@
 
-[breathing](https://shane0.github.io/buddhism/breath/){ .md-button } [sitting](https://shane0.github.io/buddhism/sit/){ .md-button } [walking](https://shane0.github.io/buddhism/walking/){ .md-button } [cooking](https://shane0.github.io/buddhism/recipes/){ .md-button } [eating](https://shane0.github.io/buddhism/eat/){ .md-button } [working](https://shane0.github.io/buddhism/samu/){ .md-button } [other](https://shane0.github.io/buddhism/samu/){ .md-button }
+[breathing](https://shane0.github.io/buddhism/breath/){ .md-button } [sitting](https://shane0.github.io/buddhism/sitting/){ .md-button } [walking](https://shane0.github.io/buddhism/walking/){ .md-button } [cooking](https://shane0.github.io/buddhism/recipes/){ .md-button } [eating](https://shane0.github.io/buddhism/eat/){ .md-button } [working](https://shane0.github.io/buddhism/samu/){ .md-button } [other](https://shane0.github.io/buddhism/samu/){ .md-button }
 
 ## buddhism research
 
