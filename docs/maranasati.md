@@ -18,7 +18,7 @@ tags:
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/5SBrCdRTX8o" title="Maranasati: Buddhist Reflections on Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## what are the 9 steps for maranasati?
+## 9 steps
 
 The 9 steps of Maranasati (MINDFULNESS of death) meditation in the Theravada tradition are a series of contemplations designed to help the practitioner develop a deeper understanding of the nature of impermanence and the preciousness of life. Here is a general outline of the 9 steps of Maranasati meditation:
 
@@ -33,6 +33,28 @@ The 9 steps of Maranasati (MINDFULNESS of death) meditation in the Theravada tra
 1. Cultivating the desire to live a virtuous life: Consider the impact that your actions have on others, and strive to live a virtuous life that benefits both yourself and others.
 
 These 9 steps of Maranasati meditation are meant to be practiced regularly, in order to cultivate a deeper understanding of the nature of impermanence and the preciousness of life. By contemplating death in a MINDFUL and contemplative manner, the practitioner can develop a greater sense of urgency, compassion, and wisdom, and can live their life with greater meaning and purpose.
+
+## mantra
+
+# mantra
+
+- **Maraṇasyāpi saṅkhārānaṁ
+- aniccaṁ dukkhaṁ anattaṁ**
+
+- **Even death is impermanent,
+- unsatisfactory, and not-self.**
+
+Another
+
+- **Kathaṁ maraṇā gatiṁ gacchati
+- nāhaṁ jānāmi ko pana jānāti**
+
+- **How does one go at death's approach?
+- I do not know. Who knows?**
+
+This mantra is a reminder that we do not know what happens to us after death. It is important to be open to the possibility of the unknown, and to live our lives in a way that is true to our values.
+
+These mantras can be used to cultivate mindfulness of death and to remind ourselves of the impermanence of all things. They can also be used to develop a sense of equanimity and acceptance in the face of death.
 
 ## what are the benefits of maranasati?
 
