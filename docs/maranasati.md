@@ -36,21 +36,11 @@ These 9 steps of Maranasati meditation are meant to be practiced regularly, in o
 
 ## mantra
 
-# mantra
+- **Maraṇasyāpi saṅkhārānaṁ aniccaṁ dukkhaṁ anattaṁ**
+- **Even death is impermanent,  unsatisfactory, and not-self.**
 
-- **Maraṇasyāpi saṅkhārānaṁ
-- aniccaṁ dukkhaṁ anattaṁ**
-
-- **Even death is impermanent,
-- unsatisfactory, and not-self.**
-
-Another
-
-- **Kathaṁ maraṇā gatiṁ gacchati
-- nāhaṁ jānāmi ko pana jānāti**
-
-- **How does one go at death's approach?
-- I do not know. Who knows?**
+- **Kathaṁ maraṇā gatiṁ gacchati nāhaṁ jānāmi ko pana jānāti**
+- **How does one go at death's approach? I do not know. Who knows?**
 
 This mantra is a reminder that we do not know what happens to us after death. It is important to be open to the possibility of the unknown, and to live our lives in a way that is true to our values.
 
