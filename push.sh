@@ -11,7 +11,9 @@ function addcommitpush () {
   read -r yn
   if [ "$yn" = y ]; then
     # echo "$current" "$remote"
-    git add -A && git commit -a -m "$message"
+    git add -A 
+    # git commit -a -m "$message"
+    cz c
     git push origin "$current"
   else
     echo "nope"

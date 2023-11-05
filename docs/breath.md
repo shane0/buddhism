@@ -4,31 +4,25 @@ tags:
   - sitting 
   - sit 
   - breath 
+  - awareness 
   - support 
 ---
 # counting the breath
 
-- prep posture body breath mind
-- remove shoes
-  
-- breath naturally, no need to force anything
+- set your posture firm but not tense
+- take 3 deep relaxing breaths
+- relax the body
+- when breathing in or out, note mindfully in or out
+- breathe relaxed and natural, do not force it
+- whenever you breathe out, start counting upwards
+- stop counting when the out breath is finished
+- this number you use count on subsequent out breaths
 
-- breath in knowing you are breating in
-- breath out knowing you are breating out
+## tips
 
-- breath in knowing you are breating
-- breath out counting 1,2,3... however far out breath takes
-- repeat this, if it becomes consistent that is good
+- use right mindfulness[^1]
+- maintain awareness of observation[^2]
+- if the conscious mind[^1] distracts you, use reflective awareness[^1] and return to counting
 
-- breath in 1
-- breath out 1
-- breath in 2
-- breath out 2
-- continue, to a number you are comfortable with
-- if you become distracted simply start over
-
-- once you are confident counting the breath you can stop counting
-- simply breath and remain mindful
-
-- end gently massage head to toe
-- put on shoes transition to walking meditation
+[^1]:[eightfold path](eightfold.md)
+[^2]:[observational awareness](awareness.md)

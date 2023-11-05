@@ -1,6 +1,33 @@
 # science & buddhism
 
-an NLP summary of Buddhism and its 20 most similar laws in science:
+## a scientific take on buddhism
+
+* [dependent origination and carbon](origination.md)
+
+PHYSICS: the world is made up of tiny things called atoms, atoms follow rules with no known exceptions, atoms form different shapes and these shapes are not permanent
+
+BUDDHISM: suffering comes from clinging to things and wishing they last forever
+
+* to end suffering, accept and understand things are atoms and atoms change form without exception
+* the practice is about how to let go of ignorance and see the world clearly as it is
+
+!!! info "condensed physics"
+
+    - everything is made of atoms
+    - atoms form elements 
+    - all elements will eventually become equally mixed together
+    - eventually there will be no more pure elements left[^1]
+
+!!! quote "condensed buddhism"
+
+    everything                             | nothing
+    ---------------------------------------|------------------------------------
+    everything is interdependent           | nothing is independent
+    everything is changing and impermanent | nothing is unchanging and permanent
+
+    - when you've got more past then future you learn
+
+## NLP summary of Buddhism and its 20 most similar laws in science
 
 * **The Three Universal Truths:** The Three Universal Truths are the law of impermanence, the law of suffering, and the law of non-self.
   * The law of impermanence states that everything in the universe is constantly changing.

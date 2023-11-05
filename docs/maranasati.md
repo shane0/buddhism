@@ -14,7 +14,9 @@ tags:
 
     Of all the footprints, that of the elephant is supreme. Similarly, of all mindfulness meditation, that on death is supreme
 
-    (AN 6.19) <https://www.dhammatalks.org/suttas/AN/AN6_19.html>
+    AN 6.19 <https://www.dhammatalks.org/suttas/AN/AN6_19.html>
+
+    MN 10 <https://www.dhammatalks.org/suttas/MN/MN10.html>
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/5SBrCdRTX8o" title="Maranasati: Buddhist Reflections on Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -166,3 +168,21 @@ The four reminders of Upajjhaṭṭhana are:
 By contemplating these four reminders, practitioners of Upajjhaṭṭhana aim to gain a deeper understanding of the nature of reality and the causes of suffering, and to develop greater wisdom, compassion, and liberation from negative mental states and suffering.
 
 The practice can be performed alone or as part of a group, and can be a helpful tool for gaining greater insight and clarity in one's daily life.
+
+## The Satipatthana Sutta (MN: 10) and the Kayagata-sati Sutta (MN: 119)
+
+1. A corpse that is "swollen, blue and festering."
+1. A corpse that is "being eaten by crows, hawks, vultures, dogs, jackals or by different kinds of worms."
+1. A corpse that is "reduced to a skeleton together with (some) flesh and blood held in by the tendons."
+1. A corpse that is "reduced to a blood-besmeared skeleton without flesh but held in by the tendons."
+1. A corpse that is "reduced to a skeleton held in by the tendons but without flesh and not besmeared with blood."
+1. A corpse that is "reduced to bones gone loose, scattered in all directions."
+1. A corpse that is "reduced to bones, white in color like a conch."
+1. A corpse that is "reduced to bones more than a year old, heaped together."
+1. A corpse that is "reduced to bones gone rotten and become dust."
+
+According to the Maranassati Sutta (2) a monk should reflect on the many possibilities which could bring death and then turn his thoughts to the unskillful mental qualities he has yet to abandon.
+
+"Just as when a person whose turban or head was on fire would put forth extra desire, effort, diligence, endeavor, undivided mindfulness, & alertness to put out the fire on his turban or head, in the same way the monk should put forth extra desire, effort, diligence, endeavor, undivided mindfulness, & alertness for the abandoning of those very same evil, unskillful qualities."[^1]
+
+[^1]: <https://en.wikipedia.org/wiki/Mara%E1%B9%87asati>
