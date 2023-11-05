@@ -10,6 +10,7 @@ function addcommitpush () {
   echo push local branch "$current" to "$remote" y n ?
   read -r yn
   if [ "$yn" = y ]; then
+    git pull
     # echo "$current" "$remote"
     git add -A 
     # git commit -a -m "$message"
