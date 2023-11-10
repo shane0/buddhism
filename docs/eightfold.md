@@ -19,4 +19,64 @@ tags:
 
 > The Eightfold Path is not a linear process. Instead, it is a holistic approach to living a good and meaningful life. By practicing all eight elements of the path, we can develop the wisdom and compassion necessary to end suffering.
 
-This version of the answer has a Flesch Reading Ease score of 74.5, a Gunning Fog Index score of 11.8, an Automated Readability Index score of 11.2, a Dale-Chall Readability Score of 7.6, and a Coleman–Liau Index score of 10.9. This means that it is considered to be very easy to read by most people.
+## bhante
+
+<iframe width="769" height="577" src="https://www.youtube.com/embed/UZNxbEKf6LA" title="Supernormal Eightfold Way by Bhante Punnaji 19-June-2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- [pdf](pdf/EIGHTFOLD-WAY_June2017.pdf){ .md-button }
+
+```mermaid
+graph TD
+subgraph level 1 sila Stream Entrant Sotāpanna
+Harmonious -- Sammā Ājīva --> Lifestyle 
+Harmonious -- Sammā Kammanta --> Action 
+Harmonious -- Sammā Vācā --> Speech 
+Harmonious -- Sammā Sankappa --> Orientation 
+Harmonious -- Sammā Diṭṭhi --> Perspective 
+end
+```
+
+```mermaid
+graph TD
+subgraph level 2 Once Returner Sakadāgāmi
+Harmonious_Exercise -- Sammā --> Vāyāma
+Harmonious_Exercise -- Maintenance --> Anurakkhaṇa
+Harmonious_Exercise -- Cultivation --> Bhāvanā
+Harmonious_Exercise -- Elimination -->  Pahāna
+Harmonious_Exercise -- Prevention -->  Saṃvar
+end
+```
+
+```mermaid
+graph TD
+subgraph Level 3 Paññā Non Returner Anāgāmi
+Harmonious_Equilibrium --> Sammā_Samādhi
+Harmonious_Equilibrium -- Upekkhā --> Apperception
+Harmonious_Equilibrium -- Samādhi Affective --> tranquility
+Harmonious_Equilibrium -- Passaddhi Physical --> Relaxation
+Harmonious_Equilibrium -- Pīti Cognitive --> consonance
+Harmonious_Equilibrium -- Viriya Cognitive --> strength
+Harmonious_Equilibrium -- Dhammavicaya Examination of --> cognition
+Harmonious_Equilibrium -- Sati --> Introspection
+end
+```
+
+```mermaid
+graph TD
+subgraph Level 3b Paññā Non Returner Anāgāmi
+Harmonious_Attention --> Sammā_Sati 
+Harmonious_Attention -- Awareness of Dhammānupassanā --> Conception 
+Harmonious_Attention --  Awareness of Cittānupassanā --> Emotion 
+Harmonious_Attention --  Awareness of Vedanānupassanā --> Feeling 
+Harmonious_Attention --  Awareness of Kāyānupassanā --> Body 
+end
+```
+
+```mermaid
+graph TD
+subgraph level 4 Breaker of Bonds Arahat
+NIBBĀNA -- Awakening Imperturbable --> Serenity
+VIMUTTI -- Emancipation Paradigm Shift --> Superperception
+PAÑÑĀ -- Complete Knowledge --> Full_Comprehension 
+end
+```
