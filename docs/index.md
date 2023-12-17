@@ -1,6 +1,6 @@
 
 ## shane null
 
-### buddhism research notes
+## my research notes on buddhism
 
 [TAGS]
