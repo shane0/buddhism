@@ -299,8 +299,8 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#updating-versioned-docs" class="md-nav__link">
-    updating versioned docs
+  <a href="#adding-new-versions" class="md-nav__link">
+    adding new versions
   </a>
   
 </li>
@@ -309,19 +309,6 @@
   <a href="#2023-12-17-added-versioned-docs" class="md-nav__link">
     2023-12-17 added versioned docs
   </a>
-  
-    <nav class="md-nav" aria-label="2023-12-17 added versioned docs">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#adding-new-versions" class="md-nav__link">
-    adding new versions
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -360,8 +347,8 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#updating-versioned-docs" class="md-nav__link">
-    updating versioned docs
+  <a href="#adding-new-versions" class="md-nav__link">
+    adding new versions
   </a>
   
 </li>
@@ -370,19 +357,6 @@
   <a href="#2023-12-17-added-versioned-docs" class="md-nav__link">
     2023-12-17 added versioned docs
   </a>
-  
-    <nav class="md-nav" aria-label="2023-12-17 added versioned docs">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#adding-new-versions" class="md-nav__link">
-    adding new versions
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -434,35 +408,26 @@
 <ul>
 <li>these are my notes on maintaining this site</li>
 <li>this site uses mkdocs + mike + commitizen</li>
+<li>checkout a branch and deploy changes using this script</li>
 </ul>
-<h2 id="updating-versioned-docs">updating versioned docs<a class="headerlink" href="#updating-versioned-docs" title="Permanent link">&para;</a></h2>
-<ul>
-<li>check branch 2024 (latest) 2023 2022</li>
-<li>example deploy updates to 2024</li>
-</ul>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>git<span class="w"> </span>checkout<span class="w"> </span><span class="m">2024</span>
-<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>mike<span class="w"> </span>serve
-<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="c1"># update markdown files</span>
-<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>mike<span class="w"> </span>deploy<span class="w"> </span>--push<span class="w"> </span><span class="m">2024</span>
-<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="c1"># deploy online</span>
-<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a>mkdocs<span class="w"> </span>gh-deploy
-<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a>git<span class="w"> </span>add<span class="w"> </span>.
-<a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a>cz<span class="w"> </span>c
-<a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>git<span class="w"> </span>push
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>./utils/mike.sh
 </code></pre></div>
+<h2 id="adding-new-versions">adding new versions<a class="headerlink" href="#adding-new-versions" title="Permanent link">&para;</a></h2>
+<ul>
+<li>create a new branch <code>2025</code></li>
+<li><code>touch .placeholder</code></li>
+<li><code>mike deploy 2025 latest --push</code></li>
+<li><code>mike set-defaul 2025</code></li>
+<li>to have a file to push to the remote</li>
+<li>run <code>git add . &amp;&amp; cz c &amp;&amp; git push origin 2022</code></li>
+<li>no need to merge the branch but you could</li>
+<li>do not delete it</li>
+<li>you will checkout this branch to update it later</li>
+</ul>
 <h2 id="2023-12-17-added-versioned-docs">2023-12-17 added versioned docs<a class="headerlink" href="#2023-12-17-added-versioned-docs" title="Permanent link">&para;</a></h2>
 <ul>
 <li>added versioned docs for: 2024 2023 2022</li>
 <li>examples: <a href="https://github.com/squidfunk/mkdocs-material-example-versioning">https://github.com/squidfunk/mkdocs-material-example-versioning</a></li>
-</ul>
-<h3 id="adding-new-versions">adding new versions<a class="headerlink" href="#adding-new-versions" title="Permanent link">&para;</a></h3>
-<ul>
-<li>create a new branch for example 2022</li>
-<li>push to the remote</li>
-<li>in this case I created <code>.placeholder</code></li>
-<li>then run <code>git add . &amp;&amp; cz c &amp;&amp; git push origin 2022</code></li>
-<li>no need to merge the branch and do not delete it</li>
-<li>you will checkout this branch to update it later</li>
 </ul>
 
 
