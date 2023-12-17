@@ -1,3 +1,6 @@
+# 2023-12-17 test workflow
+# verified do not run mkdocs gh-deploy it wipes mike
+# ./utils/mike.sh 
 
 # found issue browser is 404 on versions.json updated discussion
 # started tshooting docs to clarify confusions 
