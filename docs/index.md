@@ -1,6 +1,6 @@
 
 ## shane null
 
-## my research notes on buddhism 2022
+## 2022 research notes on buddhism
 
 [TAGS]

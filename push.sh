@@ -12,6 +12,7 @@ function addcommitpush () {
   if [ "$yn" = y ]; then
     git pull
     # echo "$current" "$remote"
+    mike deploy 2022 --push
     git add -A 
     # git commit -a -m "$message"
     cz c
