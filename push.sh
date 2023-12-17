@@ -15,6 +15,10 @@ function addcommitpush () {
     git add -A 
     # git commit -a -m "$message"
     cz c
+    git pull
+    mike deploy 2024 latest --push
+    mike set-default latest 
+    mike list
     git push origin "$current"
   else
     echo "nope"
@@ -22,5 +26,7 @@ function addcommitpush () {
 }
 
 addcommitpush "$1"
+# do not run this it will erase mike versioning
+#  see workflow.md to deploy push gh-pages branch
 # mkdocs gh-deploy
 open https://github.com/shane0/buddhism/actions 
