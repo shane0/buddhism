@@ -1,4 +1,6 @@
 
+# found issue browser is 404 on versions.json updated discussion
+# started tshooting docs to clarify confusions 
 git push origin 2022
 git push origin 2023
 git push origin 2024
