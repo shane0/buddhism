@@ -398,17 +398,6 @@
         
       
       
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    workflow
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -418,43 +407,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#adding-new-versions" class="md-nav__link">
-    <span class="md-ellipsis">
-      adding new versions
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#2023-12-17-added-versioned-docs" class="md-nav__link">
-    <span class="md-ellipsis">
-      2023-12-17 added versioned docs
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
       
     </li>
   
@@ -3051,32 +3003,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#adding-new-versions" class="md-nav__link">
-    <span class="md-ellipsis">
-      adding new versions
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#2023-12-17-added-versioned-docs" class="md-nav__link">
-    <span class="md-ellipsis">
-      2023-12-17 added versioned docs
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -3121,29 +3047,19 @@
 <ul>
 <li>these are my notes on maintaining this site</li>
 <li>this site uses mkdocs + mike + commitizen</li>
-<li>checkout a branch and deploy changes using this script</li>
+<li>checkout the 2021 branch</li>
+<li>make changes</li>
+<li>run this to preview locally</li>
 </ul>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>./push.sh
-<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="c1"># for manual one offs</span>
-<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="c1"># ./utils/mike.sh</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>mike<span class="w"> </span>deploy<span class="w"> </span><span class="m">2021</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>mike<span class="w"> </span>serve
 </code></pre></div>
-<h2 id="adding-new-versions">adding new versions<a class="headerlink" href="#adding-new-versions" title="Permanent link">&para;</a></h2>
 <ul>
-<li>create a new branch <code>2025</code></li>
-<li><code>touch .placeholder</code></li>
-<li><code>mike deploy 2025 latest --push</code></li>
-<li><code>mike set-defaul 2025</code></li>
-<li>to have a file to push to the remote</li>
-<li>run <code>git add . &amp;&amp; cz c &amp;&amp; git push origin 2022</code></li>
-<li>no need to merge the branch but you could</li>
-<li>do not delete it</li>
-<li>you will checkout this branch to update it later</li>
+<li>commit changes to branch &amp;</li>
+<li>deploy changes using this script</li>
 </ul>
-<h2 id="2023-12-17-added-versioned-docs">2023-12-17 added versioned docs<a class="headerlink" href="#2023-12-17-added-versioned-docs" title="Permanent link">&para;</a></h2>
-<ul>
-<li>added versioned docs for: 2024 2023 2022</li>
-<li>examples: <a href="https://github.com/squidfunk/mkdocs-material-example-versioning">https://github.com/squidfunk/mkdocs-material-example-versioning</a></li>
-</ul>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>./push.sh
+</code></pre></div>
 
 
 
