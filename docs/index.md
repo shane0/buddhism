@@ -1,6 +1,6 @@
 
 ## shane null
 
-### buddhism research notes 2024
+### buddhism research notes
 
 [TAGS]
