@@ -21,6 +21,7 @@ mike deploy --push 2024
 mkdocs gh-deploy
 git add .
 cz c
+git push
 ```
 
 ## 2023-12-17 added versioned docs
