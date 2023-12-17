@@ -4,3 +4,4 @@ git push origin 2023
 git push origin 2024
 git push origin main
 git push origin gh-pages
+mike deploy --push --update-aliases 2024 latest
