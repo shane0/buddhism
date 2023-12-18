@@ -6,12 +6,26 @@ tags:
 
 - these are my notes on maintaining this site
 - this site uses mkdocs + mike + commitizen
-- checkout a branch and deploy changes using this script
+- I am using the main branch named 2024 alias latest
+- or checkout other versions to update previous years
+- each has their own workflow page
+- deploy changes to 2024 using this script:
 
 ```sh
 ./push.sh
 # for manual one offs
 # ./utils/mike.sh
+```
+
+- to preview changes use the local mike server
+- <http://localhost:8000>
+
+```sh
+mike list
+mike deploy 2024 latest
+# optional add push
+mike deploy 2024 latest --push
+mike serve
 ```
 
 ## adding new versions
