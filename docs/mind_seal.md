@@ -6,6 +6,23 @@
 
 ## 1 Cultivators should thus abide and subdue their minds
 
+The threefold enlightenment is comprised of self-enlightenment, enlightening others, and perfect enlightenment.
+
+### bring forth awareness that all appearances are illusory
+
+> What does it mean to bring forth awareness when perceiving objects?
+>> It means that whenever we make contact with the sense objects, immediately bring forth our intrinsic awareness and see through them with the teaching stated in The Diamond Sutra, "all appearances are illusory"' Give rise to this awareness and bring the mind back [from the objects of perception|"-this is the mind-ground ( L Itt xin-di) practice.
+
+### abide in nothing
+
+> What does it mean to "abide in nothing whatsoever?"
+>> It means that our six senses-eyes, ears, nose, tongue, body, and mind—do not abide in or cling to the six sense objects of form, sound, smell, taste, touch, and dharmas. Here, abiding in the sense objects means to have attachment. For example, when we see something attractive before us, most of us cannot help but look at or touch it —this is called "having abidance" (i.e., having attachment). When we do not crave for or dwell on anything, that is to have no-abidance (i.e., no-attachment), and our mind then becomes settled.
+
+### Anuttara-samyak-sambodhi
+
+> Anuttara-samyak-sambodhi (Skt.)
+>> 1 # 3 BE#E#|. Anuttara means unsurpassed; samyak-sambodhi means right and comprehen- sive understanding, specifically, complete enlightenment. Anuttara- samyak-sambodhi or unsurpassed complete enlightenment is the state of a buddha.
+
 ## 2 Cultivators should abide in nothing to give rise to the mind
 
 ## 3 All appearances are illusory
@@ -16,8 +33,19 @@
 
 ## 6 All dharmas are equal
 
+### awakening or enlightenment
+
+Many people misunderstand "awakening or enlightenment (1 wu)," thinking it means having visions and acquiring supernatural powers. This is not what it means. Awakening is realizing that the mind listening to Shifu's teaching is always present as it is, and is inherent in every sentient being.
+
 ## 7 All saints and sages are distinguished by the unconditioned dharma
 
 ## 8 Those who see me in form or seek me through sound are on a mistaken path; they do not see the Tathagata
 
 ## appendix Memorial inscription of the life and epitaph of Grand Master Weichueh Zhian, 57th generation of the Linji School, founder of Chung Tai Chan Monastery
+
+## unsorted
+
+### dharma body
+
+> 'In Mahayana Buddhism, a general understanding of the Dharma body can be obtained from the following teaching.
+>> Ultimately, a buddha who reaches perfect and complete enlightenment realizes the three bodies: dharmakaya (the Dharma body or truth body), sambhogakaya (the bliss body or reward body), and nirmanakaya (the transformation body). Among the three, the dharmakaya (Dharma body)-the "formless embodiment" of Dharma (truth) - fully manifests (in terms of its qualities and functions) upon the perfect realization of the pure mind. Since every being inher- ently possesses the pure mind, everyone is endowed with the dharmakaya, whether it be manifest or not. So, the dharmakaya, like the pure mind, is formless and always present, without begin- ning nor end (unborn and undying). Further, the sambhogakaya— the bliss or reward body—is the "reward" derived from realizing the myriad virtues and wisdom of the pure mind, and the nirmana- kaya —the transformation body—is an expedient means used to guide infinite sentient beings according to their infinite needs.  Unlike the dharmakaya, which is inherently complete in all beings, both the sambhogakaya and the nirmanakaya must be realized through diligent cultivation. Specifically, it is taught that these two bodies require three incalculable great kalpas of bodhisattva practice for them to perfectly and completely manifest. According to various sutras (e.g., The Sutra on the Jeweled Necklace of the Bodhisattva « ##I#T*«#»), the Dharma body of purity discussed here is the dharmakaya as defined above, and the Dharma body of merit pertains to the sambhogakaya.
