@@ -1,37 +1,99 @@
+---
+tags:
+  - diamond sutra 
+  - doing 
+---
 # The Diamond Sutra
 
-[diamond sutra: the mind seal of prajna wisdom audiobook](https://www.ctworld.org.tw/Buddhist%20e-Books/Audio/Book007/index.html){ .md-button }
+the Diamond Sutra emerged within the Mahayana Buddhist tradition in India sometime between the 2nd and 5th centuries CE.
 
+- [audio reading](https://drive.google.com/file/d/1k8XpOOQtVXUy8AQWPMr-YlMuKCD_hBA7/view)
 - [diamond sutra sutra study book](https://www.ctworld.org.tw/Buddhist%20e-Books/Books06/index.html)
-- [spoken audio](https://drive.google.com/file/d/1k8XpOOQtVXUy8AQWPMr-YlMuKCD_hBA7/view)
+- [mind seal of prajna wisdom audiobook](https://www.ctworld.org.tw/Buddhist%20e-Books/Audio/Book007/index.html){ .md-button }
 
-> Prajna Paramita (Skt.)
->> Great transcendental wisdom, wisdom of understanding the empty nature of the self and all phenomena, which can overcome birth and death and all suffering, as well as enlighten all beings. Paramita literally means "to the other shore." The six paramitas (perfections) are practiced by bodhisattvas to attain buddhahood; they are perfections of charity (dana), moral conduct (shila), tolerance (kshanti), diligence (virya), meditation (dhyana), and most important of all, wisdom (prajna).
+## tasks
 
-## 1 | The Core of Mahayana Practice
+- [ ] extracting only what I want to use in a simplified meditation record checklist
+- [ ] extracting bulletpoints on each chapter for conceptual understanding during readings at the temple
 
-The Buddha said to Subhuti, "The bodhisattvas and maha-sattvas should thus subdue their minds: All the different types of sentient beings's
-—whether they are born from eggs,
-from wombs, from moisture, or by transformation;" whether they have form or no form; whether they have thoughts or no thoughts, or have neither thought nor non-thought' - I will liberate them, by leading them to nirvana without residue! When immeasurable, countless, infinite sentient beings have been liberated, ultimately, no sentient beings have been liberated. Why? Subhuti, if bodhisattvas have any notions of a self, a person, a sentient being or a life span, they are not bodhisattvas."
+## 1 | Convocation of the Assembly
+
+## 2 1 Subhuti Requests the Teaching
+
+## 3 I The Core of Mahayana' Practice
+
+## 4 | Practice Charity Without Attachment
+
+## 5 | The Way to Ultimately Recognize the Buddha
+
+- thathagata has no physical appearance
+- All appearances are illusory
+
+## 6 | True Faith Is Precious
+
+- it is rare someone understands the diamond sutra quickly
+- if you understand the diamond sutra immediately
+- you are free from the notions of a self, a person, a sentient being and a life 
+- you are free from the notions of dharmas and non-dharmas
+
+## 7 1 No Attainment, No Teaching
+
+## 8 | Merits Obtained Accord with the Dharma
+
+## 9 | All Forms Are Formless
+
+## 10 | Adorn a Buddha World
+
+## 11 | The Merit of Unconditioned Dharma Is Great
+
+## 12 | Revere the Teaching as Buddha
+
+## 13 | Uphold the Sutra Accordingly
+
+## 14 | Attain Nirvana Without Attachment
+
+## 15 | Merits of Upholding this Sutra
+
+## 16 | Purgation of Bad Karma
+
+## 17 | Ultimately There Is No Self
+
+## 18 | All Is Seen in Essence
+
+## 19 | The Way to Benefit the World
+
+## 20 | Transcend Physical Forms and Attributes
+
+## 21 | There Is No Dharma to Teach
+
+## 22 | There Is No Dharma to Attain
+
+## 23 | Cultivate the Good with a Pure Mind
+
+## 24 | The Unsurpassed Merit of Teaching the Sutra
+
+## 25 | Liberate Without the Notion of Liberating
+
+## 26 | Dharma Body Is Formless
+
+## 27 | Attainment Without Nihilistic Views
+
+## 28 | Neither Accumulate nor Cling to Merits
+
+## 29 | Deportment Is Always Serene
+
+## 30 | One Wholeness in Nature
+
+## 31 | Know and Practice Without Attachment
 
 ## 32 | All Dharmas Are Illusions
 
-Subhuti, if a person were to fill countless worlds with the seven jewels and give them away in charity, and if a good man or good woman, having made the bodhisattva resolve, reads, recites, studies, follows and expounds to others this sutra, even a mere four-line verse, the latter's merits far exceed the former's. How should one expound to others?
-Without attachment, abiding in stillness and suchness. Why?
+---
 
-All conditioned dharmas
-Are like a dream, an illusion, a bubble, a shadow, Like dew or a flash of lightning;
-Thus we shall perceive them.
-With this, the Buddha concluded the sutra. The elder Subhuti, other bhikshus, bhikshunis, upasakas, upasikas," heavenly and human beings, asuras and other beings of the world, having heard the Buddha, were all filled with immense joy; they accepted and followed the teaching faith-fully.
+## notes
 
-### chapter 32 related sanskrit words
-
-- A Dream: स्वप्न (svapna)
-- An Illusion: माया (māyā)
-- A Bubble: फेन (phena) or बुद्बुद (budbuda)
-- A Shadow: छाया (chāyā)
-- Dew: तुषार (tuṣāra)
-- Lightning: विद्युत् (vidyut) or विद्योत (vidyota)
+> Prajna Paramita (Skt.)
+>> Great transcendental wisdom, wisdom of understanding the empty nature of the self and all phenomena, which can overcome birth and death and all suffering, as well as enlighten all beings. Paramita literally means "to the other shore." The six paramitas (perfections) are practiced by bodhisattvas to attain buddhahood; they are perfections of charity (dana), moral conduct (shila), tolerance (kshanti), diligence (virya), meditation (dhyana), and most important of all, wisdom (prajna).
 
 | Chapter Number | Title                 | Short Description                                                             | Sanskrit Summary     |
 |----------------|-----------------------|-------------------------------------------------------------------------------|----------------------|
@@ -134,3 +196,19 @@ The Diamond Sutra is a profound and complex text that has been interpreted in ma
 
 - The sutra highlights the immense benefits of prajnaparamita, including the attainment of enlightenment and the ability to benefit all sentient beings.
 - The Buddha encourages his disciples to cultivate prajnaparamita through mindfulness, meditation, and the study of the sutra.
+
+## first sanskrit version
+
+Determining the exact age and location of the oldest Sanskrit version of the Diamond Sutra can be a bit tricky, as fragments of multiple early manuscripts have been discovered in different locations. However, here's what we know:
+
+- **Earliest Fragments:** The currently known oldest fragments of a Sanskrit Diamond Sutra are believed to date back to the **3rd-4th centuries CE**. These fragments were discovered in **Gilgit, Pakistan**, located in the northwestern Indian subcontinent.
+- **Incomplete Manuscripts:** These fragments don't represent the entire text, only parts of individual chapters. This makes it difficult to definitively date the complete original version.
+- **Multiple Locations:** Fragments of early Sanskrit Diamond Sutras have also been found in other locations like **Khotan, Xinjiang**, and **Central Asia**, suggesting wider circulation and potential for earlier versions existing.
+
+Therefore, while **Gilgit fragments** currently represent the oldest known parts of a Sanskrit Diamond Sutra, the precise location and date of the complete original text, and whether older versions might exist somewhere, remain open questions for further research and discovery.
+
+If you're interested in learning more about specific early manuscripts or ongoing research in this area, I'd be happy to share any additional details I can find!
+
+## chinese sutra restoration
+
+<iframe width="1109" height="624" src="https://www.youtube.com/embed/SgN5HQXTlMc" title="Conserving the Diamond Sutra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
