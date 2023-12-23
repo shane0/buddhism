@@ -2,32 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://shanenull.com/buddhism/2024/</loc>
-         <lastmod>2023-12-22</lastmod>
+         <lastmod>2023-12-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shanenull.com/buddhism/2024/diamond_sutra/</loc>
-         <lastmod>2023-12-22</lastmod>
+         <lastmod>2023-12-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shanenull.com/buddhism/2024/glossary/</loc>
+         <lastmod>2023-12-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shanenull.com/buddhism/2024/heart_sutra/</loc>
-         <lastmod>2023-12-22</lastmod>
+         <lastmod>2023-12-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shanenull.com/buddhism/2024/mind_seal/</loc>
-         <lastmod>2023-12-22</lastmod>
+         <lastmod>2023-12-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://shanenull.com/buddhism/2024/todo/</loc>
+         <lastmod>2023-12-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shanenull.com/buddhism/2024/workflow/</loc>
-         <lastmod>2023-12-22</lastmod>
+         <lastmod>2023-12-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shanenull.com/buddhism/2024/</loc>
-         <lastmod>2023-12-22</lastmod>
+         <lastmod>2023-12-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
