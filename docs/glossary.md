@@ -71,3 +71,79 @@ The enlightened beings are able to transcend conditioned existence and arrive at
 To understand the unconditioned dharma is to realize nirvana.
 
 Saints and sages are distinguished by the different levels of their realizations of the unconditioned dharma.
+
+## Trichiliocosm T ¼ F #4r . In Buddhist cosmology, a small
+
+- chapter 8
+
+world has Mount Sumeru at the center and the ring of iron
+mountains encircling the small world. Between Mount Sumeru and
+the iron mountains are seven mountains (continents) and eight
+oceans with each mountain and ocean interlacing each other. A
+thousand of these small worlds form a small chiliocosm; a thousand
+of these small chiliocosms form a medium chiliocosm; and a
+thousand of these medium chiliocosms form a great chiliocosm t
+TW% , or a tri-chiliocosm.
+
+## Seven jewels tif. There are several descriptions of what these
+
+- chapter 8
+
+seven jewels are. According to The Amitabha Sutra, they are gold sE,
+silver 1k, lapis lazuli In 4, crystal 124%, cornelian or tridacna 14i i,
+rubies or red pearls Ik, and agate or emerald
+
+## Shrotapanna
+
+- chapter 9
+
+(Skt.) 11 BE Wi or stream-enterer A in. The first
+stage of arhathood. Having realized the emptiness of the ego-self
+and ended the false views of the triple world, a stream-enterer will
+undergo a maximum of seven rebirths as a human and seven rebirths
+as a heavenly being alternately in order to eradicate all the afflictions
+of the triple world.
+
+## Sakridagamin
+
+- chapter 9
+
+(Skt.) i BE a or once-returner - fE * . The
+second stage of arhathood. A once-returner (literally one who
+goes and comes one more time) has not completely eradicated the
+afflictions in the realm of desire and thus has to undergo one more
+human rebirth.
+
+## Anagamin
+
+- chapter 9
+
+(Skt.) K/5 a or non-returner 1s. The third stage
+of arhathood. A non-returner (literally one who is not returning) has
+eradicated all the afflictions in the realm of desire and thus will never
+be born in that realm again.
+
+## Arhat
+
+- chapter 9
+
+(Skt.) If SEA. A Buddhist saint who has realized the empti-
+ness of the ego-self and eradicated all afflictions of the triple world,
+and therefore is no longer subject to rebirth.
+
+## Samadhi
+
+- chapter 9
+
+(Skt.) = Ik. A highly concentrated state of mind achieved
+by meditation, characterized by unwavering focus, lucidity and
+clarity, stillness, bliss, or all of the above.
+
+## Aranya
+
+- chapter 9
+
+(Skt.) 5f 5/5 . A place of stillness, particularly implying a
+place without any contention. Later in Buddhism, an aranya refers
+to a quiet place, usually in a forest, where Buddhist monks or nuns
+gather to live and practice without any contention.
