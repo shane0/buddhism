@@ -6,7 +6,16 @@
 
 ## 1 Cultivators should thus abide and subdue their minds
 
-The threefold enlightenment is comprised of self-enlightenment, enlightening others, and perfect enlightenment.
+- Fear not the arising of thought, only the absence of awareness
+- The threefold enlightenment is comprised of self-enlightenment, enlightening others, and perfect enlightenment.
+
+### nightly
+
+- in stillness rest all thoughts
+- recite the diamond sutra with respect
+- refrain conceptual thinking
+- keep a natural pace
+- if the mind gets distracted return to the sutra
 
 ### bring forth awareness that all appearances are illusory
 
@@ -18,12 +27,40 @@ The threefold enlightenment is comprised of self-enlightenment, enlightening oth
 > What does it mean to "abide in nothing whatsoever?"
 >> It means that our six senses-eyes, ears, nose, tongue, body, and mind—do not abide in or cling to the six sense objects of form, sound, smell, taste, touch, and dharmas. Here, abiding in the sense objects means to have attachment. For example, when we see something attractive before us, most of us cannot help but look at or touch it —this is called "having abidance" (i.e., having attachment). When we do not crave for or dwell on anything, that is to have no-abidance (i.e., no-attachment), and our mind then becomes settled.
 
-### Anuttara-samyak-sambodhi
+### sitting or in action
 
-> Anuttara-samyak-sambodhi (Skt.)
->> 1 # 3 BE#E#|. Anuttara means unsurpassed; samyak-sambodhi means right and comprehen- sive understanding, specifically, complete enlightenment. Anuttara- samyak-sambodhi or unsurpassed complete enlightenment is the state of a buddha.
+When sitting in meditation, keep our mind free of thoughts; always be clear, lucid, and unmoving.
+
+Accordingly, when we are in action, we can still be in command, and our every deed will be a wholesome deed.
+
+This is to be clear and lucid.
+
+Be this way both in action and when not in action.  
+
+Nurture and maintain this mind in our meditation, starting from one minute of clarity and lucidity, one minute without clinging, distortion or wandering thoughts, one minute without drowsiness, and one minute of being in command - this is the middle way reality meditation (4 # 1 # it zhong-dao-shi-xiang-guan).
 
 ## 2 Cultivators should abide in nothing to give rise to the mind
+
+- Samadhi[^1] subdues delusion & prajna eliminates it
+- Perceive sense objects without giving rise to craving
+- realize the truth without conceptualizing it.
+- When no conceptualization arises with respect to the truth, therein lies the highest blessing.
+
+> Here, "perceive sense objects without giving rise to craving" means
+>> the moment our senses meet their corresponding objects, let no greed nor craving or anger arise in the mind; neither grasp nor reject the sense objects. Just by realizing this understanding, we are [in accord with] the supreme way
+
+### stages
+
+#### first - aspiration
+
+- aspiring to enlightenment
+
+#### second - the bodhi of subduing the (impure) mind
+
+- always bring awareness back to the mind
+- remove unwholesome thoughts in meditation and in everyday life
+- use self-examination, introspection, and repentance
+- maintain this clear and present mind while engaging in all activities
 
 ## 3 All appearances are illusory
 
@@ -74,3 +111,5 @@ With this, the Buddha concluded the sutra. The elder Subhuti, other bhikshus, bh
 - A Shadow: छाया (chāyā)
 - Dew: तुषार (tuṣāra)
 - Lightning: विद्युत् (vidyut) or विद्योत (vidyota)
+
+[^1]:[samadhi definition](glossary.md#samadhi)
