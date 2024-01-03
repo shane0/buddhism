@@ -28,8 +28,10 @@ tags:
 
 ## Anuttara-samyak-sambodhi
 
+- unsurpassed complete enlightenment
+
 > Anuttara-samyak-sambodhi (Skt.)
->> 1 # 3 BE#E#|. Anuttara means unsurpassed; samyak-sambodhi means right and comprehen- sive understanding, specifically, complete enlightenment. Anuttara- samyak-sambodhi or unsurpassed complete enlightenment is the state of a buddha.
+>> 1 # 3 BE#E#|. Anuttara means unsurpassed; samyak-sambodhi means right and comprehensive understanding, specifically, complete enlightenment. Anuttara- samyak-sambodhi or unsurpassed complete enlightenment is the state of a buddha.
 
 ## Sentient beings
 
@@ -85,13 +87,21 @@ of these small chiliocosms form a medium chiliocosm; and a
 thousand of these medium chiliocosms form a great chiliocosm t
 TW% , or a tri-chiliocosm.
 
-## Seven jewels tif. There are several descriptions of what these
+## Seven jewels
 
 - chapter 8
 
-seven jewels are. According to The Amitabha Sutra, they are gold sE,
-silver 1k, lapis lazuli In 4, crystal 124%, cornelian or tridacna 14i i,
-rubies or red pearls Ik, and agate or emerald
+According to The Amitabha Sutra
+
+- gold
+- silver
+- lapis lazuli
+- crystal
+- cornelian
+- tridacna
+- rubies
+- red pearls
+- agate or emerald
 
 ## Shrotapanna
 
@@ -147,3 +157,51 @@ clarity, stillness, bliss, or all of the above.
 place without any contention. Later in Buddhism, an aranya refers
 to a quiet place, usually in a forest, where Buddhist monks or nuns
 gather to live and practice without any contention.
+
+## mindfulness practice
+
+Mindfulness is a state of mind. To practice mindfulness means that the mind is
+conscientious, clear and lucid. Thoughts of greed and anger are quickly detected and
+renounced, and eventually, only righteous thoughts arise.
+
+The mind thinks of the Buddha, the Dharma, the Sangha, and the precepts; the mind is filled with
+compassion; the mind is not deluded and misguided.
+
+By practice in right mindfulness, we eventually have a complete understanding of the Dharma, are willing to do all good
+without a sense of the "self" doing the deed, or the "other" benefiting from the deed,
+finally reaching enlightenment.
+
+## Thirty-two good marks
+
+- chapter 13
+
+> The thirty-two good marks
+>> are distinctive bodily characteristics of a great being, particularly a buddha or a wheel-turning sage king (see footnote 48 for more on wheel-turning sage king). As lay people, those endowed with the thirty-two good marks will be wheel-turning sage kings. If they renounce home life to practice the Dharma, they will achieve enlightenment and become buddhas. Although there are different sets of the thirty-two good marks given in the sutras, all these good marks are said to be effects resulted by upholding pure precepts and performing wholesome deeds.
+
+## buddha eyes
+
+- chapter 18
+
+The physical eye, deva eye, wisdom eye, dharma eye, and buddha eye W All BIE A bId.
+
+According to the Mahaprajnaparamita Shastra (translated into Chinese by Kumarajiva), the physical eye can see what is close to us but not what is far away; can see what is in front of us but not what is behind; can see in the daytime but not in the nighttime.
+
+To go beyond these limitations of the physical eye, the deva eye is needed.
+
+Those who have the deva eye can see near and far, what is in the front and back, and during the daytime and the nighttime.
+
+Although seeing through the appearance of what is dependently arising, they have not seen the empty nature of all beings and phenomena yet.
+
+It is only those with the wisdom eye who can see the truth of emptiness, and with this wisdom of emptiness, they relinquish all attachments.
+
+But because of immersing in emptiness, they have not yet developed expedient means to liberate sentient beings, which requires the dharma eye to do so.
+
+In addition to emptiness, those who have the dharma eye realize the worldly truth and thus establish all dharmas according to conditions.
+
+Consequently, they use expedient means in accordance with the needs of sentient beings to help them on the path to buddhahood.
+
+To perfect the application of expedient means to liberate all sentient beings, the buddha eye is indispensable.
+
+Buddhas with their buddha eyes see through all beings and phenomena, their differences as well as their common nature.
+
+Put it in another way, the buddha eye clearly sees the ultimate truth of middle way reality.
