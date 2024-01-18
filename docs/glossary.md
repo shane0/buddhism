@@ -11,6 +11,10 @@ tags:
 - example put the cursor over all caps words: DUKKHA
 - after this glossary is complete add these to the built in glossary
 
+## Duality
+
+Duality is where we create a false division in phenomena based on two extremes, such as good or bad, true or false, pure or impure, etc.
+
 ## terminology required for the sutras mentioned on this site
 
 ### Tathagata (Skt.)

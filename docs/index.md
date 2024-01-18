@@ -1,9 +1,7 @@
 
 ## shane null
 
-- I'm halfway through a 20 week Chung Tai Chan meditation course
-- I'll be adding notes here soon
-- use the dropdown for older notes
+- I'm halfway through a [20 week Chung Tai Chan meditation course](level_1.md)
 
 ## my research notes on buddhism
 
