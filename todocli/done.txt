@@ -6,3 +6,5 @@ x 2023-10-10 w4
 x 2023-10-17 w5
 x 2023-10-22 record meditations
 x 2023-10-22 release
+x 2024-02-22 w6
+x 2024-02-22 2nd noble truth page updates

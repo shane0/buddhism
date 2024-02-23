@@ -4,15 +4,41 @@ tags:
   - dukkha 
   - samudaya 
   - magga 
+  - kleshas 
   - nirodha
   - noble truths
 ---
 # samudaya: causes of suffering
 
-- DUKKHA: impermanence
-- SAMUDAYA: causes
+- the 2nd noble truth
+- causes of suffering
+- aka afflictions defilements vexations kleshas
+
+## false views
+
+- 3 forms of ignorance or misconceptions that contribute to suffering
+- false self
+- dualistic views
+- denial of causality
+
+## **False Self**
+
+- This false view involves the belief in an inherently existing, independent self or ego, separate from the rest of existence. It leads to attachment, aversion, and suffering because it creates a sense of separation and identity that is not in line with the interconnected nature of reality as taught in Buddhism.
+- **Dualistic Views**: Dualistic views refer to the perception of reality as consisting of separate and distinct entities, such as self versus other, good versus bad, or existence versus non-existence. This dualistic perception obscures the understanding of the interconnectedness and interdependence of all phenomena, which leads to suffering through attachment, aversion, and ignorance.
+- **Denial of Causality**: Denial of causality, or the belief that events occur randomly or independently without causes and conditions, can also lead to suffering. In Buddhism, the law of causality, or dependent origination (pratītyasamutpāda), is fundamental. Denying causality prevents individuals from understanding the interconnectedness of actions and their consequences, leading to confusion, irresponsibility, and continued suffering.
+
+## false thoughts
+
+- aka 3 poisons greed hate ignorance
+
+## all 4 noble truths
+
+- DUKKHA: universal suffering & impermanence
+- SAMUDAYA: causes in our self
 - NIRODHA: cessation
-- MAGGA: path
+- MAGGA: the eightfold path
+
+## related 
 
 - [dependent origination](https://shanenull.com/buddhism/2023/origination/)
 
