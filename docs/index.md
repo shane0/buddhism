@@ -1,7 +1,8 @@
 
-## shane null
+## shane null buddhism journals
 
-- I'm halfway through a [20 week Chung Tai Chan meditation course](level_1.md)
+- 2023-24 [20 week Chung Tai Chan meditation course level 1](level_1.md)
+- 2024-25 20 week Chung Tai Chan meditation course level 2
 
 ## my research notes on buddhism
 
