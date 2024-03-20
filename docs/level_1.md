@@ -1,6 +1,7 @@
 ---
 tags:
   - level 1 
+  - meditation course 
   - heart sutra
   - sit
   - walk
