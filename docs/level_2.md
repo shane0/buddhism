@@ -1,7 +1,7 @@
 ---
 tags:
   - level 2 
-  - meditation course 
+  - meditation course
 ---
 # level 2
 
@@ -19,7 +19,7 @@ tags:
 - bodhisattva ideal
 - six paramitas
 - four abodes
-  - the seven-round compassion contemplation
+  - the seven round compassion contemplation
 
 ## related
 
