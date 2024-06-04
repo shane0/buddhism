@@ -16,6 +16,10 @@ the Diamond Sutra emerged within the Mahayana Buddhist tradition in India someti
 - [diamond sutra sutra study book](https://www.ctworld.org.tw/Buddhist%20e-Books/Books06/index.html)
 - [mind seal of prajna wisdom audiobook](https://www.ctworld.org.tw/Buddhist%20e-Books/Audio/Book007/index.html){ .md-button }
 
+<iframe width="850" height="694" src="https://www.youtube.com/embed/HK9u7Jz-vNA" title="The Diamond Sutra - spoken in English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1109" height="624" src="https://www.youtube.com/embed/Y5fIVLwGYI8" title="The Diamond Sutra (Vajracchedikā Prajñāpāramitā Sūtra) - Mahayana, Zen Buddhism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## tasks
 
 - [ ] extracting only what I want to use in a simplified meditation record checklist

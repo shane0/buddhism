@@ -6,6 +6,21 @@
 - chung tai will hopefully release some audio of monks singing this mantra
 - this sutra study book has a chapter on the heart sutra + [some explanations](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html)
 
+## explanation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=alfuyO8EQSECzJHI&amp;list=PLqhBSEbitutu1nltHWUPyLzgRJx0VLRbL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="918" height="694" src="https://www.youtube.com/embed/ej0_39J4yts" title="The Heart Sutra of Mahayana Buddhism as Explained by The Fourteenth Dalai Lama of Tibet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1109" height="625" src="https://www.youtube.com/embed/_p1_RZpCQos" title="𝐓𝐡𝐞 𝐇𝐞𝐚𝐫𝐭 𝐒𝐮𝐭𝐫𝐚 ~  Prajñāpāramitā  ~ The Perfection of Wisdom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## wip: chart
+
+## about
+
+- some say the heart sutra is a summary of the [diamond sutra](diamond_sutra.md)
+- diamond sutra is a summary of x scrolls
+
 ---
 
 The short title of this most popular and important sutra.

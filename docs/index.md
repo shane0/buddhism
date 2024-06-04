@@ -16,6 +16,7 @@ tags:
 [diamond sutra: the mind seal of prajna wisdom audiobook](https://www.ctworld.org.tw/Buddhist%20e-Books/Audio/Book007/index.html){ .md-button }
 [heart sutra study](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html){ .md-button }
 [seven round compassion contemplation](seven_full.md){ .md-button }
+[books](books.md){ .md-button }
 
 - screencast about this site
 
