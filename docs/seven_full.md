@@ -5,6 +5,27 @@ tags:
 ---
 # the full seven round compassion contemplation
 
+- this chart assists memorization
+
+```mermaid
+graph LR
+you
+-->
+dear & foes & neutral
+
+dear
+-->
+elder_ & peer_ & junior_
+
+foes
+-->
+_elder & _peer & _junior
+
+neutral
+-->
+neuteral_
+```
+
 - all seven rounds with the seven steps
 - this pattern repeats: forward then reverse
 

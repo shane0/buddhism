@@ -5,6 +5,27 @@ tags:
 ---
 # the seven round compassion contemplation
 
+- this chart assists memorization
+
+```mermaid
+graph LR
+you
+-->
+dear & foes & neutral
+
+dear
+-->
+elder_ & peer_ & junior_
+
+foes
+-->
+_elder & _peer & _junior
+
+neutral
+-->
+neuteral_
+```
+
 this contemplation includes seven rounds.
 
 each round has seven steps to reflect upon our relationship with seven groups of beings:
