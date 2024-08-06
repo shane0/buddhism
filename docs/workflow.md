@@ -4,6 +4,14 @@ tags:
 ---
 # workflow
 
+[tasks](todo.md){ .md-button }
+[projects](projects.md){ .md-button }
+
+## command line sutra practice
+
+
+## maintain this site
+
 - these are my notes on maintaining this site
 - this site uses mkdocs + mike + commitizen
 - I am using the main branch named 2024 alias latest
