@@ -2,6 +2,21 @@
 # module for learning a sutra
 import click
 
+def first_letters(sentences):
+  """Returns a string of the first letters of each word in a list of sentences, separated by dashes.
+
+  Args:
+    sentences: A list of sentences.
+
+  Returns:
+    A string containing the first letters of each word in each sentence, separated by dashes.
+  """
+
+  result = ""
+  for sentence in sentences:
+    first_letters = "".join(word[0] for word in sentence.split())
+    result += f"{first_letters}-"
+  return result[:-1]  # Remove the trailing dash
 
 def prompt_user():
     text = click.prompt(text="enter sutra text")

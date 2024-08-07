@@ -60,6 +60,11 @@ def s():
     for h in heart_sutra:
         click.echo(h)
 
+@cli.command()
+def f():
+    """show heart sutra first letters only"""
+    sutra_first_letters = first_letters(heart_sutra)
+    click.echo(sutra_first_letters)
 
 @cli.command()
 def l():

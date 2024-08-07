@@ -2,7 +2,7 @@
 
 ## heart sutra memorization command line app
 
-<iframe width="859" height="521" src="https://www.youtube.com/embed/l9DNldARFY0" title="command line app for memorizing sutras (or anything)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="859" height="531" src="https://www.youtube.com/embed/vllKiMq-q3M" title="memorization: python click app for memorizing the heart sutra (or anything)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
