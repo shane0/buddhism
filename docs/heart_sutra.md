@@ -1,5 +1,11 @@
 # The Heart Sutra
 
+## heart sutra memorization command line app
+
+<iframe width="859" height="521" src="https://www.youtube.com/embed/l9DNldARFY0" title="command line app for memorizing sutras (or anything)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 [heart sutra study](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html){ .md-button }
 
 - SUTRA <-- mouse over for the definition

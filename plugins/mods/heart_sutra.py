@@ -7,6 +7,58 @@ def prompt_user():
     text = click.prompt(text="enter sutra text")
     return text
 
+def first_letters(sentences):
+  """Returns a string of the first letters of each word in a list of sentences, separated by newlines.
+
+  Args:
+    sentences: A list of sentences.
+
+  Returns:
+    A string containing the first letters of each word in each sentence, separated by newlines.
+  """
+
+  result = ""
+  for sentence in sentences:
+    first_letters = "".join(word[0] for word in sentence.split())
+    result += f"{first_letters}\n"
+  return result[:-1]  # Remove the trailing newline
+
+def shorten(text):
+    """Returns a string containing the first letter of each word in the given text.
+
+    Args:
+      text: The input text.
+
+    Returns:
+      A string containing the first letter of each word.
+    """
+
+    return "".join(word[0] for word in text.split())
+
+def read_by_line(sutra_list):
+    total_lines = get_sutra_length(sutra_list)
+    next_line = 1
+    for line_number in range(total_lines):
+        hint = get_hint(sutra_list, line_number)
+        next_hint = shorten(sutra_list[next_line])
+        click.echo(hint)
+        click.echo(next_hint)
+        click.confirm(text="enter to continue")
+        next_line += 1
+
+def read_by_line_short(sutra_list):
+    total_lines = get_sutra_length(sutra_list)
+    next_line = 1
+    for line_number in range(total_lines):
+        big_hint = get_hint(sutra_list, line_number)
+        hint = shorten(sutra_list[line_number])
+        # click.echo(hint)
+        click.echo(big_hint)
+        next_hint = shorten(sutra_list[next_line])
+        click.echo(next_hint)
+        click.confirm(text="enter to continue")
+        next_line += 1
+
 
 def quiz(sutra_list):
     total_lines = get_sutra_length(sutra_list)
@@ -14,6 +66,11 @@ def quiz(sutra_list):
 
     for line_number in range(total_lines):
         click.echo(f"Line {line_number + 1} of {total_lines}")
+        # hint mode full line
+        # hint = get_hint(sutra_list, line_number)
+        # hint mode first letter
+        hint = shorten(sutra_list[line_number])
+        click.echo(hint)
         while True:
             user_input = prompt_user()
 
