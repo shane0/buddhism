@@ -6,6 +6,7 @@ import click
 import os
 import sys
 import inspect
+import pyperclip 
 from plugins.mods.heart_sutra_text import heart_sutra
 from plugins.mods.heart_sutra import get_hint, get_sutra_length, check_sutra_line, quiz, read_by_line, first_letters, read_by_line_short
 
@@ -65,6 +66,7 @@ def f():
     """show heart sutra first letters only"""
     sutra_first_letters = first_letters(heart_sutra)
     click.echo(sutra_first_letters)
+    pyperclip.copy(sutra_first_letters)
 
 @cli.command()
 def l():

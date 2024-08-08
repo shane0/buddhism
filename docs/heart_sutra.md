@@ -6,6 +6,55 @@
 
 ---
 
+## first letters
+
+- just the first letters of each word this is an efficient memorization technique
+- print this out & cut it to carry a small scroll with you
+
+!!! info "THE HEART OF PRAJNA PARAMITA SUTRA"
+
+    ba
+    wdiipp
+    cptenotfs
+    atas
+    sfindfe
+    eindff
+    fie
+    eif
+    siiwfcvac
+    sadaeic
+    nanc
+    ninp
+    nind
+    tie
+    tinf
+    tinfcvoc
+    neentbom
+    nfssttod
+    nrovasf
+    utnrom
+    nioeoiasf
+    utnaadoeoaad
+    tinsncnenp
+    tinwana
+    tintbabwopp
+    tbmiffh
+    wnhtinf
+    ffadadunir
+    bwoppbotppaf
+    aa
+    tppitgpm
+    tgem
+    tsapm
+    icras
+    tittbad
+    atppmist
+    ggppbs
+
+---
+
+## study
+
 [heart sutra study](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html){ .md-button }
 
 - SUTRA <-- mouse over for the definition
