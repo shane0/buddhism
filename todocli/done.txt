@@ -16,3 +16,4 @@ x 2024-05-07 level 2 week 4
 x 2024-06-03 books page
 x 2024-08-05 screencast click app to memorize sutras
 x 2024-08-06 update heart cli
+x 2024-08-07 add random first letter command

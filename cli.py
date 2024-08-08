@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Console script for sncli."""
-import click
+"""Console script for click"""
 import os
-import inspect
-import sys
-import shutil
+import click
 import datetime
+# import inspect
+# import sys
+# import shutil
 
 plugin_folder = os.path.join(os.path.dirname(__file__), "plugins")
 homedir = os.path.expanduser("~")

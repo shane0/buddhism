@@ -38,7 +38,7 @@ heart_sutra = [
     "the great enlightening mantra",
     "the supreme and peerless mantra",
     "it can remove all suffering",
-    "this is the truth beyond all doubt.",
+    "this is the truth beyond all doubt",
     "and the prajna paramita mantra is spoken thus",
-    "gate gate paragate parasamgate bodhi svaha.",
+    "gate gate paragate parasamgate bodhi svaha",
 ]
