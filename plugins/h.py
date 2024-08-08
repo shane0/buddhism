@@ -99,8 +99,10 @@ def rl():
     click.echo(random_line)
 
 @cli.command()
-def rf():
+@click.option('--repeats', prompt='number of repeats', default=100)
+def rf(repeats):
     """random first letters"""
-    random_line = get_random_first_letter(heart_sutra)
-    click.echo(random_line)
+    for _ in range(repeats):
+        random_line = get_random_first_letter(heart_sutra)
+        click.echo(random_line)
 
