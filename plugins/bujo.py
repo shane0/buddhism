@@ -43,6 +43,11 @@ def edit():
     """edit plugin"""
     click.edit(filename=inspect.getfile(inspect.currentframe()), editor="code")
 
+@cli.command()
+def u():
+    """update site for mike serve"""
+    cmd = 'mike deploy 2024 latest'
+    os.system(cmd)
 
 @cli.command()
 def m():

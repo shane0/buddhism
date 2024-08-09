@@ -19,8 +19,8 @@ tags:
 ## format
 
 - [chant the heart sutra](heart_sutra.md)
-- [sitting meditation](breath.md)
-- [walking meditation](walking.md)
+- [sitting meditation](https://shanenull.com/buddhism/2023/sitting/)
+- [walking meditation](https://shanenull.com/buddhism/2023/walking/)
 - dharma lessons
 - dedication of merits
 

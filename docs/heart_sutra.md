@@ -1,3 +1,7 @@
+---
+tags:
+  - heart sutra 
+---
 # The Heart Sutra
 
 ## heart sutra memorization command line app
@@ -5,6 +9,16 @@
 <iframe width="859" height="531" src="https://www.youtube.com/embed/vllKiMq-q3M" title="memorization: python click app for memorizing the heart sutra (or anything)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
+## first letters line by line
+
+- use the first letters to assist memorizing the lines of the heart sutra
+- press show line to reveal
+
+<button id="reveal">show line</button>
+<div id="content">
+</div>
+<script src="javascripts/first_letters.js"></script>
 
 ## first letters
 
