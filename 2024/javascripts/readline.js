@@ -60,5 +60,5 @@ const data = [
   // Create initial lines
   data.forEach(createLine);
   
-  const revealButton = document.getElementById('reveal');
+  const revealButton = document.getElementById('reveal_line');
   revealButton.addEventListener('click', revealLine);
