@@ -1,7 +1,8 @@
+click
 behave
 mkdocs-material
 mkdocs-git-revision-date-localized-plugin
 mkdocs-glightbox
-glightbox
+# glightbox
 mike
 commitizen

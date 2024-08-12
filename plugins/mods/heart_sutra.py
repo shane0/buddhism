@@ -159,3 +159,18 @@ def get_random_first_letter(sutra_list):
     click.echo(shorten(sutra_list[random_index]))
     if click.confirm(text="show", default=True):
         click.echo(sutra_list[random_index])
+
+def first_letter(text):
+    """Returns the first letter of the given text.
+
+    Args:
+      text: The input text.
+
+    Returns:
+      The first letter of the text.
+    """
+
+    if text:
+      return text[0]
+    else:
+      return ""

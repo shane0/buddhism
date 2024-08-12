@@ -9,6 +9,7 @@ import inspect
 import pyperclip
 from plugins.mods.heart_sutra_text import heart_sutra
 from plugins.mods.heart_sutra import (
+    first_letter,
     get_hint,
     get_sutra_length,
     check_sutra_line,
@@ -65,6 +66,11 @@ def w():
     url = "https://shanenull.com/buddhism/2024/heart_sutra/"
     click.launch(url)
 
+@cli.command()
+def c():
+    """colab heart sutra """
+    url = "https://colab.research.google.com/drive/1TLPkBWYqGA7Rk4g4fl9xFVLVdUA_1Da2"
+    click.launch(url)
 
 @cli.command()
 def s():
@@ -84,6 +90,15 @@ def f():
     click.echo(sutra_first_letters)
     pyperclip.copy(sutra_first_letters)
 
+@cli.command()
+def sfl():
+    """show heart sutra first letter of sentence"""
+    collect_first_letters = ""
+    for line in heart_sutra:
+        collect_first_letters += (first_letter(line))
+        # click.echo(first_letter(line))
+    click.echo(collect_first_letters)
+    pyperclip.copy(collect_first_letters)
 
 @cli.command()
 def l():
@@ -97,6 +112,13 @@ def rl():
     """random line"""
     random_line = get_random_line(heart_sutra)
     click.echo(random_line)
+
+# todo: first letter has duplicates think about it 2 3 or ?
+# @cli.command()
+# def rf():
+#     """random first letter of line"""
+#     random_line = get_random_line(heart_sutra)
+#     click.echo(random_line)
 
 @cli.command()
 @click.option('--repeats', prompt='number of repeats', default=100)
