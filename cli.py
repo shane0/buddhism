@@ -19,7 +19,7 @@ MONTH = datetime.date.today().strftime("%m_%B")
 WEEK = datetime.date.today().strftime("%U")
 DAYFILE = BUJO_FOLDER + "/" + TODAY + ".md"
 WEEKFILE = BUJO_FOLDER + "/" + WEEK + ".md"
-MONTHFILE = BUJO_FOLDER + MONTH + ".md"
+MONTHFILE = BUJO_FOLDER + "/" +  MONTH + ".md"
 YEAR = datetime.date.today().strftime("%Y")
 
 
