@@ -63,7 +63,7 @@ plugins:
 extra:
   version:
     provider: mike
-    default: latest
+    default: 2024
   social:
   - icon: fontawesome/brands/wordpress-simple
     link: https://shanenull.com/
