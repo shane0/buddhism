@@ -5,6 +5,24 @@ tags:
 ---
 # morning & evening ritual
 
+- the heart sutra is a summary of the diamond sutra
+- all I do on a busy day is the heart sutra
+- on a long day I review everything on this page and try to keep it brief
+- the diamond sutra is a summary of the mahaprajnaparamita
+- the mahaprajnaparamita is 600 scrolls
+
+## workflow
+
+### on a busy day
+
+- on a busy day I just speak or chant the heart sutra & meditate
+
+### on a long day
+
+- I open this page on my laptop and update it
+- I listen to all the videos
+- I take notes and leave comments that trace the iterations of my daily practice over 5 years
+
 ## note
 
 - this information is thousands of years old & has traveled through many translations
@@ -62,10 +80,9 @@ tags:
 
 <iframe width="1043" height="652" src="https://www.youtube.com/embed/TuOgsn60oYw" title="0205n1b2 The Five Aggregates \ \ Thanissaro Bhikkhu \ \ Dhamma Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="1159" height="652" src="https://www.youtube.com/embed/cRicqtjDylw?list=PLGY2UhH7nNtJKrAFJWKphAd9chqw8Jfew" title="Heart Sutra" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1159" height="652" src="https://www.youtube.com/embed/cRicqtjDylw" title="Heart Sutra robot audio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- if you do not like the robot this one is not the chan version & it does not allow embedding so click it
-- [heart sutra](https://youtu.be/_p1_RZpCQos?list=PLGY2UhH7nNtJKrAFJWKphAd9chqw8Jfew)
+- [another version of the heart sutra](https://youtu.be/_p1_RZpCQos?list=PLGY2UhH7nNtJKrAFJWKphAd9chqw8Jfew)
 
 <iframe width="799" height="652" src="https://www.youtube.com/embed/HK9u7Jz-vNA" title="The Diamond Sutra - spoken in English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
