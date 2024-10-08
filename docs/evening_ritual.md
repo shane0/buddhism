@@ -39,9 +39,10 @@ tags:
 
 ## maranasati
 
-- one minute left [maranasati](https://shanenull.com/buddhism/2023/maranasati/)
+- pretend you have one minute left 
+- [2024 page maranasati](https://shanenull.com/buddhism/2024/maranasati/)
+- [2023 page maranasati](https://shanenull.com/buddhism/2023/maranasati/)
 - [remove the false views](https://shanenull.com/buddhism/2024/samudaya/#false-views)
-- [9 steps](https://shanenull.com/buddhism/2023/maranasati/#the-satipatthana-sutta-mn-10-and-the-kayagata-sati-sutta-mn-119)
 
 ## prajna paramita
 
