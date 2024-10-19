@@ -1,4 +1,6 @@
 *[DUKKHA]:      In Sanskrit, "dukkha" (दुःख) means suffering, pain, or dissatisfaction. It is a key concept in Buddhist philosophy, which refers to the unsatisfactoriness and suffering that is inherent in all worldly experiences, due to impermanence, attachment, and ignorance
+*[EMPTINESS]:     Emptiness: an important Buddhist teaching that shows all phenomena, including what we perceive as our "self" are without an independent existence or inherent, fixed characteristics; therefore all things are impermanent, changing, and interdependent
+*[MIDDLE_WAY]: The middle way: an important Buddhist teaching that describes reality as it is, free of dualistic views. Emptiness and the middle way will be discussed in more detail in Level 3.
 *[BTTS]:     Buddhist Text Translation Society BTTS
 *[BDK]:     BDK stands for Bukkyo Dendo Kyokai, which translates to the Society for the Promotion of Buddhism 
 *[SAMUDAYA]:    Samudaya specifically refers to the cause or origin of suffering, which is seen as arising from the interconnected and interdependent nature of all things. According to the Buddha, all things arise in dependence upon causes and conditions, and understanding the nature of these causes and conditions can help us to eliminate the suffering they create
