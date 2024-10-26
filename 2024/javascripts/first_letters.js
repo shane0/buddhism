@@ -61,3 +61,6 @@ const data = [
   
   const revealButton = document.getElementById('reveal');
   revealButton.addEventListener('click', revealLine);
+
+  const revealButtonBottom = document.getElementById('reveal_bottom');
+  revealButtonBottom.addEventListener('click', revealLine);
