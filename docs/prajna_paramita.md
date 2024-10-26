@@ -1,4 +1,17 @@
+---
+tags:
+  - index 
+  - heart sutra 
+  - diamond sutra 
+  - mahaprajnaparamita
+---
 # Prajñāpāramitā
+
+![prajna](images/prajna.png)
+
+## mahaprajnaparamita
+
+- <https://www.abebooks.com/servlet/BookDetailsPL?bi=31934163893>
 
 The Prajñāpāramitā literature is extensive and includes various sutras of different lengths, emphasizing the perfection of wisdom and the concept of emptiness. While there isn't a single sutra that comprehensively covers all aspects of Prajñāpāramitā teachings, there are several key texts within the genre. Some of the most notable ones include:
 

@@ -10,8 +10,8 @@ tags:
 
 - I studied buddhism at home for a few years during covid
 - started a chan meditation class in 2023
-- [x] 2023-24 20 week Chung Tai Chan meditation course [level 1](level_1.md)
-- [x] 2024-25 20 week Chung Tai Chan meditation course [level 2](level_2.md)
+- [x] 2023-24 20 week Chan meditation course [level 1](level_1.md)
+- [x] 2024-25 20 week Chan meditation course [level 2](level_2.md)
 - [ ] 2025 level 3 40 week course [level 3](level_3.md)
 - [ ] 2027-31 sutra study 80 week course
 

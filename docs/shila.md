@@ -42,7 +42,7 @@ tags:
 
 - do no evil perform all good
   - there are many things you can categorize in this way
-  - all good: 4 tenets of chung tai monastary, 8 fold path, 7 round compassion contemplation
+  - all good: 4 tenets, 8 fold path, 7 round compassion contemplation
   - no evil: 5 precepts, kleshas
   - story is referenced in [Effortless Composure in the Changing World, p.294 - ebook](https://www.ctworld.org.tw/Buddhist%20e-Books/Books08/index.html)
 

@@ -41,6 +41,11 @@ def edit():
     """edit plugin"""
     click.edit(filename=inspect.getfile(inspect.currentframe()), editor="code")
 
+@cli.command()
+def b():
+    """samu in browser """
+    url = "https://shanenull.com/buddhism/2023/samu/"
+    click.launch(url)
 
 @cli.command()
 def a():

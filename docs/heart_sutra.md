@@ -72,7 +72,6 @@ tags:
 [heart sutra study](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html){ .md-button }
 
 - SUTRA <-- mouse over for the definition
-- chung tai will hopefully release some audio of monks singing this mantra
 - this sutra study book has a chapter on the heart sutra + [some explanations](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html)
 
 !!! info "THE HEART OF PRAJNA PARAMITA SUTRA"
@@ -102,7 +101,6 @@ tags:
     And the prajna paramita mantra is spoken thus:
     gate gate paragate parasamgate bodhi svaha.
 
-    Translated by the Chung Tai Translation Committee from the Chinese translation by Tripitaka Master Kuanzang of the 7th century
 
 ## explanation
 

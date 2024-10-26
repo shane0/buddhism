@@ -44,7 +44,7 @@ tags:
 - Karma and Causality
 - The Buddha
 - Three Jewels / Three Refuges
-- Four Tenets of Chung Tai
+- Four Tenets
 - Five Precepts & Ten
 - Wholesome Deeds
 - Vegetarianism & Buddhism
@@ -96,7 +96,7 @@ tags:
 - Karma and Causality
 - The Buddha
 - Three Jewels / Three Refuges
-- Four Tenets of Chung Tai
+- Four Tenets
 - Five Precepts & Ten
 - Wholesome Deeds
 - Vegetarianism & Buddhism

@@ -13,9 +13,6 @@ tags:
 - these my favorite sources for books that free and online
 - some also have audio or video
 - there is one I cannot find for free that can be found used for $30
-
-## Chung Tai
-
 - <https://www.ctworld.org.tw/Buddhist%20e-Books/>
 
 ## BDK

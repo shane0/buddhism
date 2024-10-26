@@ -2,6 +2,7 @@
 tags:
   - level 2 
   - six paramitas
+  - evening ritual 
 ---
 # six paramitas
 

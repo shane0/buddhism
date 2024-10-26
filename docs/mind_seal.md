@@ -78,8 +78,6 @@ Many people misunderstand "awakening or enlightenment (1 wu)," thinking it means
 
 ## 8 Those who see me in form or seek me through sound are on a mistaken path; they do not see the Tathagata
 
-## appendix Memorial inscription of the life and epitaph of Grand Master Weichueh Zhian, 57th generation of the Linji School, founder of Chung Tai Chan Monastery
-
 ## unsorted
 
 ### dharma body

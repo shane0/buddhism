@@ -23,7 +23,7 @@ heart_sutra = [
     "no eye ear nose tongue body or mind",
     "no form sound smell taste touch or dharmas",
     "no realm of vision and so forth",
-    "up to no realm of mind consciousness",
+    "up to no realm of mind-consciousness",
     "no ignorance or ending of ignorance and so forth",
     "up to no aging and death or ending of aging and death",
     "there is no suffering no cause no extinction no path",
@@ -33,7 +33,7 @@ heart_sutra = [
     "with no hindrances there is no fear",
     "freed from all distortion and delusion ultimate nirvana is reached",
     "by way of prajna paramita buddhas of the past present and future ",
-    "attain anuttara samyak sambodhi",
+    "attain anuttara-samyak-sambodhi",
     "therefore prajna paramita is the great powerful mantra",
     "the great enlightening mantra",
     "the supreme and peerless mantra",
@@ -42,43 +42,3 @@ heart_sutra = [
     "and the prajna paramita mantra is spoken thus",
     "gate gate paragate parasamgate bodhi svaha",
 ]
-
-heart_first_letters = """
-ba
-wdiipp
-cptenotfs
-atas
-sfindfe
-eindff
-fie
-eif
-siiwfcvac
-sadaeic
-nanc
-ninp
-nind
-tie
-tinf
-tinfcvoc
-neentbom
-nfssttod
-nrovasf
-utnromc
-nioeoiasf
-utnaadoeoaad
-tinsncnenp
-tinwana
-tintbabwopp
-tbmiffh
-wnhtinf
-ffadadunir
-bwoppbotppaf
-aass
-tppitgpm
-tgem
-tsapm
-icras
-tittbad
-atppmist
-ggppbs
-"""

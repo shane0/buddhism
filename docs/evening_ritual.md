@@ -1,30 +1,104 @@
 ---
 tags:
   - ritual 
+  - six paramitas
+  - three jewels
+  - heart sutra 
+  - diamond sutra 
+  - mahaprajnaparamita
+  - millers law 
   - evening ritual 
 ---
 # morning & evening ritual
 
+- [3 jewels](https://shanenull.com/buddhism/2023/three_jewels/)
+- [6 paramitas](six_paramitas.md)
+- [heart sutra](heart_sutra.md)
+- [diamond sutra](diamond_sutra.md)
+- [mahaprajnaparamita](prajna_paramita.md)
+- [mind ground](mind_ground.md){ .md-button }
+
+![prajna](images/prajna.png)
+
+## density level
+
+- the heart sutra is memorized & diagrammed
+- chunks: noble truths five skhandas six dusts
+- could I memorize the diamond sutra? exceeds millers law but I might try it
+- [millers law](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
+
+```mermaid
+graph TD
+heart_sutra
+-->
+noble_truths & six_dusts & five_skhandas
+```
+
+## diagrams
+
+```mermaid
+graph TD
+
+subgraph daily_reminders 
+daily
+-->
+continuously
+daily
+-- last -->
+sunrise & sunset & hourly
+hourly
+-- last -->
+minute
+
+hourly
+-->
+mind_ground
+-- follow breath --> 
+sleepy
+mind_ground
+-- count breath --> 
+scattered
+mind_ground
+-- buddha statue or maranasati--> 
+bored
+
+end
+
+subgraph perfection of wisdom
+subgraph heart sutra 
+shunyata
+-->
+heart_sutra
+-->
+bdk_commentary
+end
+heart_sutra
+-- summary of -->
+diamond_sutra
+
+subgraph heart sutra 
+diamond_sutra
+-->
+mind_seal
+end
+diamond_sutra
+-- summary of -->
+majaprajnaparamita
+end
+```
+
+## mind ground meditation
+
+- this meditation gets to the point
 - the heart sutra is a summary of the diamond sutra
 - all I do on a busy day is the heart sutra
 - on a long day I review everything on this page and try to keep it brief
 - the diamond sutra is a summary of the mahaprajnaparamita
 - the mahaprajnaparamita is 600 scrolls
 
-## workflow
-
-### on a busy day
-
-- on a busy day I just speak or chant the heart sutra & meditate
-
-### on a long day
-
-- I open this page on my laptop and update it
-- I listen to all the videos
-- I take notes and leave comments that trace the iterations of my daily practice over 5 years
-
 ## note
 
+- 
 - this information is thousands of years old & has traveled through many translations
 - if you are new to buddhism I'm not sure this will make sense for a while
 - it would work but it helps to have some basic understanding
@@ -32,14 +106,9 @@ tags:
 - some of it is scattered throughout this site over the years there is a dropdown menu to switch years
 - the main problme is there is a lot of jargon and words that do not translate to english
 
-## mind ground meditation
-
-- this meditation gets to the point
-- [mind ground](mind_ground.md){ .md-button }
-
 ## maranasati
 
-- pretend you have one minute left 
+- pretend you have one minute left
 - [2024 page maranasati](https://shanenull.com/buddhism/2024/maranasati/)
 - [2023 page maranasati](https://shanenull.com/buddhism/2023/maranasati/)
 - [remove the false views](https://shanenull.com/buddhism/2024/samudaya/#false-views)

@@ -18,3 +18,6 @@ x 2024-08-05 screencast click app to memorize sutras
 x 2024-08-06 update heart cli
 x 2024-08-07 add random first letter command
 x 2024-10-19 eightfold path
+x 2024-10-25 memorize heart sutra
+x 2024-10-25 fix buttons on memorization
+x 2024-10-25 simplify evening ritual page
