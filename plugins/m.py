@@ -7,6 +7,8 @@ import os
 import sys
 import inspect
 import pyperclip
+from plugins.mods.mind_ground_text import mind_ground
+import plugins.mods.memorization as memorization
 
 # using inspect to import globals from parent dir module
 current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
@@ -28,8 +30,11 @@ def edit():
     click.edit(filename=inspect.getfile(inspect.currentframe()), editor="code")
 
 @cli.command()
-def s():
-    """show"""
+def f():
+    """first letters"""
+    mind_ground_text = memorization.first_letters(mind_ground)
+    click.echo(mind_ground_text)
+    pyperclip.copy(mind_ground_text)
 
 @cli.command()
 def c():

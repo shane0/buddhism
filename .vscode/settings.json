@@ -3,23 +3,23 @@
         "buddhism"
     ],
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#1e3d3b",
-        "activityBar.background": "#1e3d3b",
-        "activityBar.foreground": "#e7e7e7",
-        "activityBar.inactiveForeground": "#e7e7e799",
-        "activityBarBadge.background": "#914a96",
-        "activityBarBadge.foreground": "#e7e7e7",
-        "commandCenter.border": "#e7e7e799",
-        "sash.hoverBorder": "#1e3d3b",
-        "statusBar.background": "#0d1b1a",
-        "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#1e3d3b",
-        "statusBarItem.remoteBackground": "#0d1b1a",
-        "statusBarItem.remoteForeground": "#e7e7e7",
-        "titleBar.activeBackground": "#0d1b1a",
-        "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#0d1b1a99",
-        "titleBar.inactiveForeground": "#e7e7e799"
+        "activityBar.activeBackground": "#e1d7f7",
+        "activityBar.background": "#e1d7f7",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#da7445",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#e1d7f7",
+        "statusBar.background": "#c1adee",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#a183e5",
+        "statusBarItem.remoteBackground": "#c1adee",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#c1adee",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#c1adee99",
+        "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#0d1b1a"
+    "peacock.color": "#c1adee"
 }

@@ -12,8 +12,8 @@ this sutra is about 40 minutes read aloud
 the Diamond Sutra emerged within the Mahayana Buddhist tradition in India sometime between the 2nd and 5th centuries CE.
 
 - [audio reading](https://drive.google.com/file/d/1k8XpOOQtVXUy8AQWPMr-YlMuKCD_hBA7/view)
-- [diamond sutra](https://www.ctworld.org.tw/Buddhist%20e-Books/Books01/index.html)
 - [diamond sutra sutra study book](https://www.ctworld.org.tw/Buddhist%20e-Books/Books06/index.html)
+- [diamond sutra](https://www.ctworld.org.tw/Buddhist%20e-Books/Books01/index.html)
 - [mind seal of prajna wisdom audiobook](https://www.ctworld.org.tw/Buddhist%20e-Books/Audio/Book007/index.html){ .md-button }
 
 <iframe width="850" height="694" src="https://www.youtube.com/embed/HK9u7Jz-vNA" title="The Diamond Sutra - spoken in English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

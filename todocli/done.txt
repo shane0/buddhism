@@ -21,3 +21,7 @@ x 2024-10-19 eightfold path
 x 2024-10-25 memorize heart sutra
 x 2024-10-25 fix buttons on memorization
 x 2024-10-25 simplify evening ritual page
+x 2024-10-26 click mind ground
+x 2024-10-26 click samu
+x 2024-10-26 click impermanence
+x 2024-10-26 first letter memorization cli m for wallet
