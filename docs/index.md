@@ -4,7 +4,11 @@ tags:
   - level 2 
 ---
 
-## shane null buddhism journals
+## buddhism study journals
+
+![ramen](images/ramen.jpeg)
+
+![seated](images/Seated_Buddha.Gandhara.Asian_ArtMuseum.jpg)
 
 - [morning & evening ritual](evening_ritual.md){ .md-button }
 

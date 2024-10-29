@@ -11,8 +11,17 @@ tags:
 ---
 # maranasati
 
+![ramen](images/ramen.jpeg)
+
+- the goal is to always be prepared for the possibility of unpredictable death or similar radical transformations and let go of denial or deep ptsd
 - [what it means to transcend life and death](https://www.ctworld.org.tw/Buddhist%20e-Books/CTM/CTM064GM/index.html)
 - [sutra on impermanence](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html)
+- when you do this right you become charitable & grateful & compassionate
+- the goal is to transcend life and death and find the middle way
+- the goal is not to dwell in fear or annihilation
+- read the benefits below if you have difficulty with this
+- buddha called this the king of meditations
+- if you are new to this type of meditation remember you are touching debilitating fear
 
 <iframe width="819" height="461" src="https://www.youtube.com/embed/5SBrCdRTX8o" title="Maranasati: Buddhist Reflections on Death" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -25,6 +34,8 @@ tags:
     AN 6.19 <https://www.dhammatalks.org/suttas/AN/AN6_19.html>
 
     MN 10 <https://www.dhammatalks.org/suttas/MN/MN10.html>
+
+    [9 stages of decay](https://en.wikipedia.org/wiki/Nine_stages_of_decay)
 
 ## benefits
 

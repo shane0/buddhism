@@ -1,6 +1,6 @@
 ---
 tags:
-  - ritual 
+  - books 
   - six paramitas
   - three jewels
   - heart sutra 
@@ -8,15 +8,27 @@ tags:
   - mahaprajnaparamita
   - millers law 
   - evening ritual 
+  - ritual 
 ---
 # morning & evening ritual
 
+- 3 fold: meditate - study the dharma - meritorous practice
+
+## meditate
+
+- [mind ground meditation](mind_ground.md){ .md-button }
+- [experimental meditation record](https://forms.gle/QDPYuevc5a95QJA37){ .md-button }
+
+## study
+
+- [books](books.md)
 - [3 jewels](https://shanenull.com/buddhism/2023/three_jewels/)
 - [6 paramitas](six_paramitas.md)
 - [heart sutra](heart_sutra.md)
 - [diamond sutra](diamond_sutra.md)
 - [mahaprajnaparamita](prajna_paramita.md)
-- [mind ground](mind_ground.md){ .md-button }
+
+## meritorous practice
 
 ![prajna](images/prajna.png)
 
@@ -98,7 +110,7 @@ end
 
 ## note
 
-- 
+-
 - this information is thousands of years old & has traveled through many translations
 - if you are new to buddhism I'm not sure this will make sense for a while
 - it would work but it helps to have some basic understanding

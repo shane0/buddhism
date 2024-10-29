@@ -24,6 +24,11 @@ heart_sutra
 diamond_sutra
 -- summary of -->
 mahaprajnaparamita
+-- 8000 lines -->
+aṣṭasāhasrikā
+mahaprajnaparamita
+-- 25000 lines -->
+pañcaviṃśatisāhasrikā
 ```
 
 ## heart sutra can be memorized

@@ -2,8 +2,11 @@
 tags:
   - diamond sutra 
   - doing 
+  - books 
 ---
 # The Diamond Sutra
+
+![s](images/subuthi.jpg)
 
 the mind becomes the diamond that can cut through all illusions and arrive on the other shore of enlightenment
 

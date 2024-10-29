@@ -1,4 +1,14 @@
+---
+tags:
+  - buddha eyes 
+  - diamond sutra 
+---
+
 # buddha eyes
+
+![buddha eyes](images/eyes.jpg)
+
+![buddha eyes](images/eye.png)
 
 Several sutras mention the concept of the "dhamma eye," often emphasizing its role in attaining wisdom and spiritual liberation. Here are some notable examples:
 

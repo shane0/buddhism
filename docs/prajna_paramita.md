@@ -1,11 +1,18 @@
 ---
 tags:
   - index 
+  - books 
+  - evening ritual 
+  - ritual 
   - heart sutra 
   - diamond sutra 
   - mahaprajnaparamita
 ---
 # Prajñāpāramitā
+
+![mural](images/Prajanaparamita-as-both-goddess-and-book-cover-Heart-Sutra-2-Buddhism.jpg)
+
+![diety](images/prajnaparamita.jpeg)
 
 ![prajna](images/prajna.png)
 

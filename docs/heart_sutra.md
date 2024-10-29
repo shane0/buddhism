@@ -1,8 +1,13 @@
 ---
 tags:
   - heart sutra 
+  - books 
+  - evening ritual 
+  - ritual 
 ---
 # The Heart Sutra
+
+![pp](images/Prajnaparamita-with-four-arms-Buddhism.jpg)
 
 ## heart sutra memorization command line app
 
