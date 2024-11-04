@@ -12,35 +12,36 @@ tags:
 ---
 # morning & evening ritual
 
-- 3 fold: meditate - study the dharma - meritorous practice
+- 3 fold: meditate - study the dharma - meritorious practice
 
 ## meditate
 
-- [mind ground meditation](mind_ground.md){ .md-button }
-- [experimental meditation record](https://forms.gle/QDPYuevc5a95QJA37){ .md-button }
+[mind ground meditation](mind_ground.md){ .md-button } [experimental meditation record](https://forms.gle/QDPYuevc5a95QJA37){ .md-button }
 
 ## study
 
-- [books](books.md)
+[quotes](quotes.md){ .md-button }
+
 - [3 jewels](https://shanenull.com/buddhism/2023/three_jewels/)
 - [6 paramitas](six_paramitas.md)
 - [heart sutra](heart_sutra.md)
 - [diamond sutra](diamond_sutra.md)
 - [mahaprajnaparamita](prajna_paramita.md)
+- [books](books.md)
 
-## meritorous practice
+## meritorious practice
 
 ![prajna](images/prajna.png)
 
 ## density level
 
-- the heart sutra is memorized & diagrammed
+- I have the heart sutra memorized
 - chunks: noble truths five skhandas six dusts
 - could I memorize the diamond sutra? exceeds millers law but I might try it
 - [millers law](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
 
 ```mermaid
-graph TD
+graph LR 
 heart_sutra
 -->
 noble_truths & six_dusts & five_skhandas
@@ -49,7 +50,7 @@ noble_truths & six_dusts & five_skhandas
 ## diagrams
 
 ```mermaid
-graph TD
+graph LR
 
 subgraph daily_reminders 
 daily
@@ -110,7 +111,6 @@ end
 
 ## note
 
--
 - this information is thousands of years old & has traveled through many translations
 - if you are new to buddhism I'm not sure this will make sense for a while
 - it would work but it helps to have some basic understanding
@@ -128,7 +128,7 @@ end
 ## prajna paramita
 
 - gratitude: be happy you & your family are still breathing
-- [mind ground[(https://shanenull.com/buddhism/2024/mind_ground/)
+- [mind ground](https://shanenull.com/buddhism/2024/mind_ground/)
 - [heart sutra](https://shanenull.com/buddhism/2024/heart_sutra/)
 - [anapanasati](https://shanenull.com/buddhism/2023/anapanasati/)
 - [diamond sutra](https://shanenull.com/buddhism/2024/diamond_sutra/)
@@ -138,6 +138,7 @@ end
 
 - [upa yoga](https://youtu.be/Jf5qUhz-FVk)
 - deadlifts or squats <https://youtu.be/HLha33SzaaU>
+- [strength site](https://shanenull.com/strength/) 
 
 ## videos
 

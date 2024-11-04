@@ -1,6 +1,7 @@
 {
     "spellchecker.ignoreWordsList": [
-        "buddhism"
+        "buddhism",
+        "beginningless"
     ],
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#e1d7f7",
