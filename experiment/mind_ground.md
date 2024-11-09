@@ -1,6 +1,6 @@
 mind_ground.md
 
-https://shanenull.com/buddhism/latest/evening_ritual/
+- https://shanenull.com/buddhism/latest/evening_ritual/
 
 - add first letters to wallet
 
@@ -23,6 +23,5 @@ workarounds
 bored --> maranasati or buddha statue
 sleepy --> count breath
 scattered--> follow breath
-
 
 index.md

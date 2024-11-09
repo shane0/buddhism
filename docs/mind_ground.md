@@ -9,9 +9,98 @@ tags:
 
 ```mermaid
 graph TD
+forbidden_island
+--> 
+five_skhandas
+--> 
+body
+--> 
+form
+--> 
+emptiness
+
+
+five_skhandas
+--> 
+mind
+
+forbidden_island
+--> 
+six_dusts
+--> 
+body
+--> 
+neentbom
+-->
+eye & ear & nose & tongue & body & mind
+
+six_dusts
+--> 
+mind
+--> 
+form & feelings & conception & volition & consciousness
+
+feelings
+--> 
+emptiness
+conception
+--> 
+emptiness
+volition 
+--> 
+emptiness
+consciousness
+--> 
+emptiness
+
+emptiness
+--> 
+body & form & feelings & conception & volition & consciousness
+--> 
+emptiness
+
+style form fill: #2e86c1
+style body fill: #2e86c1
+style form fill: #2e86c1
+style eye fill: #2e86c1
+style ear fill: #2e86c1
+style nose fill: #2e86c1
+style tongue fill: #2e86c1
+style body fill: #2e86c1
+style mind fill: #28b463
+style feelings fill: #28b463
+style conception fill: #28b463
+style volition fill: #28b463
+style consciousness fill: #28b463
+```
+
+```mermaid
+graph TD
+
+an -- abide nowhere --> form --> emptiness --> form
+
+snaon
+-- obtain nothing -->
+tinwana
+
+snaon
+-- seek nothing -->
+tintbabwopp
+
+
+snaon
+-- seek nothing -->
+nfssttod
+
+```
+
+```mermaid
+graph TD
+tinsncnenp
+-->
 noble_truth
 -->
-fourth 
+fourth
 --> 
 magga  
 --> 

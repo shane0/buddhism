@@ -66,7 +66,7 @@ def shorten(text):
 
 
 def read_by_line(sutra_list):
-    if not isinstance(my_list, list):
+    if not isinstance(sutra_list, list):
         raise TypeError("my_list must be a list")
     total_lines = get_sutra_length(sutra_list)
     next_line = 1
