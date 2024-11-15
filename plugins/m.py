@@ -8,6 +8,7 @@ import sys
 import inspect
 import pyperclip
 from plugins.mods.mind_ground_text import mind_ground
+from plugins.mods.ox_text import oxherding_full_text
 import plugins.mods.memorization as memorization
 
 # using inspect to import globals from parent dir module
@@ -30,8 +31,28 @@ def edit():
     click.edit(filename=inspect.getfile(inspect.currentframe()), editor="code")
 
 @cli.command()
+def os():
+    """show the entire ox herding"""
+    # show
+    for h in oxherding_full_text:
+        click.echo(h)
+    # clipboard entire sutra 
+    result_string = "\n".join(oxherding_full_text)
+    pyperclip.copy(result_string)
+
+@cli.command()
+def o():
+    """first letters oxherding """
+    ox_first = memorization.first_letters(oxherding_full_text)
+    click.echo(ox_first)
+    pyperclip.copy(ox_first)
+    # one line
+    # test = memorization.shorten(ox_first)
+    # click.echo(test)
+
+@cli.command()
 def f():
-    """first letters"""
+    """first letters mind ground"""
     mind_ground_text = memorization.first_letters(mind_ground)
     click.echo(mind_ground_text)
     pyperclip.copy(mind_ground_text)

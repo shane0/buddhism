@@ -7,6 +7,7 @@
 ## new game 
 
 - protect the forbidden island
+- linji cli s 
 - pure awareness is inside
 - outside pure awareness is fog of war or war
 - turtle method

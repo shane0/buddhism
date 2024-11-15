@@ -15,3 +15,12 @@ mind_ground = [
     "sleepy then count breath",
     "scattered then follow breath",
 ]
+
+linji = [
+    "no time is needed",
+    "this is nothing to practice",
+    "nothing to realize",
+    "nothing to gain",
+    "nothing to lose",
+    "throughout all time there is no other dharma than this",
+]

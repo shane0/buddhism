@@ -1,5 +1,6 @@
 workflow.md
 
+aliases.md
 bring back my ranger vim minimalist workflow for experiments
 
 RANGER

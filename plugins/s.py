@@ -8,6 +8,8 @@ import sys
 import inspect
 import pyperclip
 from plugins.mods.heart_sutra_text import heart_sutra
+from plugins.mods.mind_ground_text import linji
+import plugins.mods.memorization as memorizations
 from plugins.mods.heart_sutra import (
     first_letter,
     get_hint,
@@ -17,7 +19,7 @@ from plugins.mods.heart_sutra import (
     read_by_line,
     first_letters,
     read_by_line_short,
-    get_random_line, 
+    get_random_line,
     get_random_first_letter,
 )
 
@@ -30,9 +32,7 @@ sys.path.insert(0, parent_dir)
 
 @click.group()
 def cli(args=None):
-    """\b
-    samu
-    """
+    """\b    samu"""
     return 0
 
 
@@ -41,11 +41,46 @@ def edit():
     """edit plugin"""
     click.edit(filename=inspect.getfile(inspect.currentframe()), editor="code")
 
+
+@cli.command()
+def sp():
+    """six paramitas"""
+    click.launch("https://shanenull.com/buddhism/2024/six_paramitas/")
+
+
+@cli.command()
+def r():
+    """ritual"""
+    urls = [
+        "https://shanenull.com/buddhism/2023/rivers/",
+        "https://shanenull.com/buddhism/2024/evening_ritual/"
+    ]
+    for u in urls:
+        click.launch(u)
+
+
+@cli.command()
+def lp():
+    """linji practice using first letters"""
+    memorizations.read_by_line(linji)
+    click.launch("https://shanenull.com/buddhism/2023/linji/")
+
+
+@cli.command()
+def lf():
+    """show linji first letters"""
+    sutra_first_letters = first_letters(linji)
+    click.echo(sutra_first_letters)
+    pyperclip.copy(sutra_first_letters)
+    click.launch("https://shanenull.com/buddhism/2023/linji/")
+
+
 @cli.command()
 def b():
-    """samu in browser """
+    """samu in browser"""
     url = "https://shanenull.com/buddhism/2023/samu/"
     click.launch(url)
+
 
 @cli.command()
 def a():
@@ -53,11 +88,13 @@ def a():
     cmd = "curl https://shanenull.com/buddhism/2024/static/files/anapanasati"
     os.system(cmd)
 
+
 @cli.command()
 def e():
     """emotion"""
     cmd = "curl https://shanenull.com/buddhism/2024/static/files/emotion"
     os.system(cmd)
+
 
 # fixme docs are confusing remove arg
 # https://click.palletsprojects.com/en/8.1.x/api/#click.File
@@ -71,18 +108,20 @@ def e():
 #     with click.argument('file_path', type=click.File('r'), default=f'{staticfile}') as f:
 #         contents = f.read()
 #         click.echo(contents)
-    # with click.argument('file_path', type=click.File('r'), default='docs/static/files/emotiondata') as f:
-    #     contents = f.read()
-    #     click.echo(contents)
+# with click.argument('file_path', type=click.File('r'), default='docs/static/files/emotiondata') as f:
+#     contents = f.read()
+#     click.echo(contents)
+
 
 @cli.command()
-@click.argument('file_path', type=click.File('r'), default='docs/static/files/emotion')
+@click.argument("file_path", type=click.File("r"), default="docs/static/files/emotion")
 def el(file_path):
     """
     show emotion file locally
     """
     contents = file_path.read()
     click.echo(contents)
+
 
 # ls docs/static/files/ | pbcopy
 # anapanasati
@@ -133,7 +172,7 @@ def el(file_path):
 #     # show
 #     for h in heart_sutra:
 #         click.echo(h)
-#     # clipboard entire sutra 
+#     # clipboard entire sutra
 #     result_string = "\n".join(heart_sutra)
 #     pyperclip.copy(result_string)
 
@@ -182,4 +221,3 @@ def el(file_path):
 #     for _ in range(repeats):
 #         random_line = get_random_first_letter(heart_sutra)
 #         click.echo(random_line)
-

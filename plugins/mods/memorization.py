@@ -12,23 +12,6 @@ def validate_non_empty_string(string):
     return True
 
 
-def first_letters(sentences):
-    """Returns a string of the first letters of each word in a list of sentences, separated by dashes.
-
-    Args:
-      sentences: A list of sentences.
-
-    Returns:
-      A string containing the first letters of each word in each sentence, separated by dashes.
-    """
-
-    result = ""
-    for sentence in sentences:
-        first_letters = "".join(word[0] for word in sentence.split())
-        result += f"{first_letters}-"
-    return result[:-1]  # Remove the trailing dash
-
-
 def prompt_user():
     text = click.prompt(text="enter text text")
     return text
@@ -66,10 +49,10 @@ def shorten(text):
 
 
 def read_by_line(text_list):
-    if not isinstance(my_list, list):
+    if not isinstance(text_list, list):
         raise TypeError("my_list must be a list")
     total_lines = get_text_length(text_list)
-    next_line = 1
+    next_line = 0
     for line_number in range(total_lines):
         hint = get_hint(text_list, line_number)
         next_hint = shorten(text_list[next_line])

@@ -44,7 +44,7 @@ def edit():
 
 @cli.command()
 def r():
-    """learn line by line using abbreviations"""
+    """heart sutra first letters - learn line by line using abbreviations"""
     read_by_line(heart_sutra)
 
 
