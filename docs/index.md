@@ -30,8 +30,6 @@ tags:
 [seven round compassion contemplation](seven_full.md){ .md-button }
 [books](books.md){ .md-button }
 
-- screencast about this site
-
 <iframe width="1120" height="700" src="https://www.youtube.com/embed/J3dLt9TaAnw" title="buddhism homepage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [TAGS]
