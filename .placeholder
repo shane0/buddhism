@@ -1,7 +1,7 @@
 # 2023-12-17 test workflow
 # verified do not run mkdocs gh-deploy it wipes mike
 # ./utils/mike.sh 
-
+#s re on branch 2025 
 # found issue browser is 404 on versions.json updated discussion
 # started tshooting docs to clarify confusions 
 # git push origin 2022
@@ -10,3 +10,4 @@
 # git push origin main
 # git push origin gh-pages
 # mike deploy --push --update-aliases 2024 latest
+# mike deploy --update-aliases 2025 latest

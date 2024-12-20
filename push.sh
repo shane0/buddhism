@@ -15,7 +15,7 @@ function addcommitpush () {
     git add -A 
     # git commit -a -m "$message"
     cz c
-    mike deploy 2024 latest --push
+    mike deploy 2025 latest --push
     # mike set-default latest 
     mike list
     git push origin "$current"
