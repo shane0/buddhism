@@ -13,6 +13,12 @@ tags:
 
 ![ramen](images/ramen.jpeg)
 
+<iframe width="1145" height="644" src="https://www.youtube.com/embed/KFjC1yG1N5Q?list=PLGY2UhH7nNtLUtjap8EvMUU9ohIHU3f6x" title="Buddhism vs. The World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1132" height="637" src="https://www.youtube.com/embed/9RuZ3_55vKc" title="Death Of Your Personality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="1145" height="644" src="https://www.youtube.com/embed/9RuZ3_55vKc" title="Death Of Your Personality" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - the goal is to always be prepared for the possibility of unpredictable death or similar radical transformations and let go of denial or deep ptsd
 - [what it means to transcend life and death](https://www.ctworld.org.tw/Buddhist%20e-Books/CTM/CTM064GM/index.html)
 - [sutra on impermanence](https://www.ctworld.org.tw/Buddhist%20e-Books/Books05/index.html)
