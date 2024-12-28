@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text Loop with Fade</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: black; /* Changed to black */
+        color: white; /* Text color changed to white for contrast */
+      }
+
+      .fade-text {
+        font-size: 24px;
+        text-align: center;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        position: absolute;
+      }
+
+      a {
+        color: #00aaff; /* Lighter blue for better visibility on dark background */
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="text-container"></div>
+
+    <script>
+      const texts = [
+        "coming soon...",
+        "all the meditions...",
+        "create your own page like this...",
+        "memorization apps...",
+        '<a href="https://shanenull.com/buddhism/2025/heart_sutra/" target="_blank">heart sutra</a>',
+        '<a href="https://shanenull.com/buddhism/2025/diamond_sutra/" target="_blank">diamond sutra</a>',
+        '<a href="https://shanenull.com/buddhism/2025/prajnaparamita/" target="_blank">prajna paramita</a>',
+      ];
+
+      let currentIndex = 0;
+
+      function fadeText() {
+        const container = document.getElementById("text-container");
+        const textElement = document.createElement("div");
+        textElement.classList.add("fade-text");
+        textElement.innerHTML = texts[currentIndex];
+
+        container.innerHTML = ""; // Clear the previous text
+        container.appendChild(textElement);
+
+        setTimeout(() => {
+          textElement.style.opacity = 1;
+        }, 50); // Give it a small delay to apply the fade-in
+
+        setTimeout(() => {
+          textElement.style.opacity = 0;
+        }, 3000); // Fade out after 3 seconds
+
+        currentIndex = (currentIndex + 1) % texts.length; // Loop through the text array
+      }
+
+      setInterval(fadeText, 4000); // Change text every 4 seconds
+
+      // Initial call to show the first text
+      fadeText();
+    </script>
+  </body>
+</html>

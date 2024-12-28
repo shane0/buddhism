@@ -1,4 +1,7 @@
 
+[vim editor](html/vim.html){ .md-button }
+[coming soon](html/ox.html){ .md-button }
+
 ## buddhism study journals
 
 ![ramen](images/ramen.jpeg)
