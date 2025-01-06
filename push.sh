@@ -16,6 +16,9 @@ function addcommitpush () {
     # git commit -a -m "$message"
     cz c
     mike deploy 2025 latest --push
+    # tshoot mike errors this fixed it
+    # pip install --upgrade -r requirements.txt
+    #  pip install --upgrade mike
     # mike set-default latest 
     mike list
     git push origin "$current"
