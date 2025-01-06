@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Text Loop with Fade Effect</title>
+    <style>
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: black;
+        color: darkred;
+        font-family: Helvetica, Arial, sans-serif;
+        /* font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; */
+      }
+
+      #text-container {
+        font-size: 9rem;
+        text-align: center;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="text-container"></div>
+
+    <script>
+      const textList = [
+        "unstable",
+        "unpleasant",
+        "impersonal",
+        "water in the summer and fire in the winter is all the need i need",
+        "The extinction of all reality is a concept that no resignation can encompass. ",
+        "And yet, in that despair, which is transcendent, ",
+        "you will find the ancient understanding that the Philosophers Stone ",
+        "will always be found despised and buried in the mud. ",
+        "This may seem like a small thing in the face of annihilation, ",
+        "until annihilation occurs.",
+        "And then all the designs and grand plans will be revealed for what they are.",
+        "above all and lastly the world does not know that you were here",
+        "The problem is that what drives the tale ",
+        "will not survive the tale. ",
+        "As the room dims and the sound of voices fades ",
+        "you understand that the world and all in it will soon cease to be.",
+        "ultimately there is nothing to know and no one to know it",
+        "i was afraid i was going to die and then i was afraid i wasnt",
+        "Dont chew on something that’s trying to eat you ",
+        "He forgot how stupid pain makes you should need the opposite otherwise what good is it ",
+        " 50 dudes just like you died today ",
+        " are you still clinging to any material things?",
+        " no more time to say anything to anyone ",
+        "Excerpts From The Perfection of Wisdom in Twenty-Five Thousand Lines ",
+        " your eyes dried up you cannot see",
+        " your mouth dried up you cannot speak",
+        " you cannot smell anything ",
+        " all you see is black ",
+        " how much pain and fear is there ",
+        "the contemplation of a bloated corpse",
+        "the contemplation of a worm-infested corpse",
+        "the contemplation of a putrefied corpse",
+        "the contemplation of a bloody corpse",
+        "the contemplation of a blue-black corpse",
+        "the contemplation of a devoured corpse",
+        "the contemplation of a dismembered corpse",
+        "the contemplation of a skeleton",
+        "the contemplation of an immolated corpse",
+        "the contemplation of the unpleasantness of food",
+        " the shadow of the axe hangs over every joy",
+        " every road ends in death",
+        " every friencship every love",
+        " I don't think there's anything wrong with me ",
+        "I think I've just been driven to finally face the truth",
+        " When you read the history",
+        " of the world",
+        " you are reading a saga of",
+        " bloodshed and greed and folly",
+        " the import of which",
+        " is impossible to ignore.",
+        " And yet we imagine",
+        " that the future will",
+        " somehow be different",
+        " veer: how do I put this? what is this?",
+        " I don't think there's anything wrong with me ",
+        "I think I've just been driven to finally face the truth",
+        " I don't regard my state of mind as some pessimestic view of the world ",
+        "I regard it as the world itself",
+        " My own reasons center around a gradual loss of make-believe ",
+        "a gradual enlightenment as to the nature of reality of the world",
+        " You give up the world line by line.  ",
+        "You become an accomplice to your own annihilation.  ",
+        "There's nothing you can do about it.  ",
+        "Everything you do closes a door somewhere ahead of you.  ",
+        "Finally there's only one door left. .",
+      ];
+
+      const textContainer = document.getElementById("text-container");
+      let currentIndex = 0;
+
+      function showNextText() {
+        textContainer.style.opacity = "0"; // Start fade-out
+        setTimeout(() => {
+          textContainer.textContent = textList[currentIndex]; // Update text
+          textContainer.style.opacity = "1"; // Fade-in
+
+          currentIndex = (currentIndex + 1) % textList.length; // Move to next text
+        }, 1000); // Wait for fade-out duration
+      }
+
+      // Start the loop
+      setInterval(showNextText, 3000); // Adjust for fade-in + fade-out + pause
+      showNextText(); // Show the first text immediately
+    </script>
+  </body>
+</html>
