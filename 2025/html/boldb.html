@@ -3,26 +3,32 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Text Loop with Fade Effect</title>
+    <title>bold quotes and meditations</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
     <style>
       body {
-        background-color: black; /* Dark background */
-        color: darkred; /* Red text */
-        font-family: sans-serif;
-        margin: 0;
-        display: flex;
+        /* background-color: black; Dark background */
+        /* color: darkred; Red text */
+        /* margin: 0; */
+        /* display: flex;
         justify-content: center;
         align-items: center;
-        min-height: 100vh;
-        display: flex;
+        min-height: 100vh; */
+        /* display: flex; */
+        font-family: sans-serif;
         font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial,
           sans-serif;
       }
 
       #text-container {
-        padding: 20px;
-        border-radius: 5px;
-        /* background-color: #282828; */
+        background-color: black; /* Dark background */
+        margin-top: 100px;
+        color: darkred;
         font-size: 2rem;
         text-align: center;
         opacity: 0;
@@ -30,21 +36,60 @@
       }
     </style>
   </head>
-  <body>
-    <div id="text-container"></div>
+  <body class="bg-dark text-light"></body>
+    <div class="nav">
+      </div>
 
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+            <div class="bg-dark" id="text-container"></div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
     <script>
       const textList = [
+        "MARKS OF EXISTENCE",
+        "material things are all unstable disappointing and impersonal",
+        "anitya annica अनित्य unstable",
+        "duḥkha दुःख unpleasant",
+        "anātman अनात्मन् impersonal",
+        "Dont chew on something that’s trying to eat you ",
+        "eat sleep and shit the rest is an imaginary problem for greed and samsara",
+        "MIND GROUND",
+        "remember that in your demographic 50 of you died today ",
         "remain focused mindful confident",
         "be aware and still",
         "abide nowhere",
         "let go",
         "all experiences in meditation are illusory and insubstantial",
         "seek nothing and obtain nothing",
-        "if you cannot let go remember ",
-        " 50 dudes just like you died today ",
+        "MACHADO",
+        "Walker there is no path ",
+        "The path is made by walking ",
+        "no hindrances from love compassion joy equanimity",
+        "the material world contains nothing to cling to",
+        "MEMENTO MORI",
+        "cowering in sterile buildings rearranging abstractions",
         " the coins of this world are worthless in the next ",
-        " your coins are your karma ",
+        " the only coins in the next world are good karma ",
+        "nothing but unstable atoms impermanent empty and selfless",
+        " I don't regard my state of mind as some pessimestic view of the world ",
+        "I regard it as the world itself",
+        "evolution cannot avoid bringing intelligent life ultimately to an awareness",
+        "of one thing over all else and that one thing is futility",
+        "EMPTY MENTAL CONFLICT",
+        "recognize the conflict between",
+        "reality and your delusions",
+        "When it comes to grief, the normal rules of exchange doesn’t apply",
+        "because grief transcends value",
+        "DISAPPOINTMENT",
         "Disappointment is the best chariot to use on the path of the Dharma",
         "It does not confirm the existence of our ego and its dreams.",
         "This automatically brings disappointment",
@@ -54,12 +99,6 @@
         "If we can open then we suddenly begin to see ",
         "go into it and make it our way of life",
         "surrender hopes expectations & fears ",
-        "material things are all unstable disappointing and impersonal",
-        "anitya annica अनित्य unstable",
-        "duḥkha दुःख unpleasant",
-        "anātman अनात्मन् impersonal",
-        "Dont chew on something that’s trying to eat you ",
-        "eat sleep and shit the rest is an imaginary problem for greed and samsara",
         "water in the summer and fire in the winter is all the need i need",
         "The extinction of all reality is a concept that no resignation can encompass. ",
         "And yet, in that despair, which is transcendent, ",
@@ -113,8 +152,6 @@
         " veer: how do I put this? what is this?",
         " I don't think there's anything wrong with me ",
         "I think I've just been driven to finally face the truth",
-        " I don't regard my state of mind as some pessimestic view of the world ",
-        "I regard it as the world itself",
         " My own reasons center around a gradual loss of make-believe ",
         "a gradual enlightenment as to the nature of reality of the world",
         " You give up the world line by line.  ",
