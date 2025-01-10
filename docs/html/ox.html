@@ -3,77 +3,156 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Text Loop with Fade</title>
+    <title>10 bulls</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
     <style>
       body {
-        font-family: Arial, sans-serif;
-        display: flex;
+        /* background-color: black; Dark background */
+        /* color: darkred; Red text */
+        /* margin: 0; */
+        /* display: flex;
         justify-content: center;
         align-items: center;
-        height: 100vh;
-        margin: 0;
-        background-color: black; /* Changed to black */
-        color: white; /* Text color changed to white for contrast */
+        min-height: 100vh; */
+        /* display: flex; */
+        font-family: sans-serif;
+        font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial,
+          sans-serif;
       }
 
-      .fade-text {
-        font-size: 24px;
+      #text-container {
+        font-family: sans-serif;
+        font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial,
+          sans-serif;
+        background-color: black; /* Dark background */
+        margin-top: 100px;
+        color: floralwhite;
+        font-size: 2rem;
         text-align: center;
         opacity: 0;
         transition: opacity 1s ease-in-out;
-        position: absolute;
-      }
-
-      a {
-        color: #00aaff; /* Lighter blue for better visibility on dark background */
-        text-decoration: none;
-      }
-
-      a:hover {
-        text-decoration: underline;
       }
     </style>
   </head>
-  <body>
-    <div id="text-container"></div>
+  <body class="bg-dark text-light"></body>
+    <div class="nav">
+      </div>
 
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+            <div class="bg-dark" id="text-container"></div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
     <script>
-      const texts = [
-        "coming soon...",
-        "all the meditions...",
-        "create your own page like this...",
-        "memorization apps...",
-        '<a href="https://shanenull.com/buddhism/2025/heart_sutra/" target="_blank">heart sutra</a>',
-        '<a href="https://shanenull.com/buddhism/2025/diamond_sutra/" target="_blank">diamond sutra</a>',
-        '<a href="https://shanenull.com/buddhism/2025/prajnaparamita/" target="_blank">prajna paramita</a>',
+      const textList = [
+      "one aimlessly pushes the grasses",
+      "aside in search",
+      "the rivers are wide",
+      "the mountains far away",
+      "and the path becomes longer",
+      "exhausted and dispirited",
+      "one hears only the late autumn cicadas",
+      "shrilling in the maple woods",
+      "by the water, and under the trees",
+      "there are numerous traces",
+      "fragrant grasses grow thickly",
+      "but did you see the ox?",
+      "even in the depths",
+      "of the distant mountain forest",
+      "how could the upturned nostrils",
+      "of the ox be concealed?",
+      "a bush warbler sings upon a branch",
+      "warm sun, soft breezes",
+      "green willows on the bank",
+      "nowhere can the ox escape to hide",
+      "but those majestic horns",
+      "are difficult to draw",
+      "with all my energy",
+      "i seize the ox",
+      "his will is strong, and his power endless",
+      "and he cannot be tamed easily",
+      "sometimes he charges",
+      "to the high plateau",
+      "and there he stays",
+      "deep in the mist",
+      "one does not let go of the whip or the rope",
+      "afraid it will stray",
+      "and choose the dusty mist",
+      "a well-tended ox becomes gentle",
+      "and even with no rope",
+      "will follow people",
+      "by himself",
+      "riding the bull, i leisurely",
+      "wander toward home",
+      "exotic flute melodies echo",
+      "through sunset clouds",
+      "each beat and each tune",
+      "is indescribably profound",
+      "no words are needed for those",
+      "who understand music",
+      "riding on the ox",
+      "he has come home",
+      "there is no ox there",
+      "and he is at ease",
+      "although the sun is high",
+      "he is still dreamy",
+      "the whip and rope abandoned",
+      "in the thatched hut",
+      "whip, rope, man, and ox",
+      "all are non-existent",
+      "the blue sky being vast",
+      "no message can be heard",
+      "just as the snowflake cannot last",
+      "in the flaming red furnace",
+      "after this state, one can join",
+      "the ancient teachers",
+      "in returning to the fundamentals",
+      "and going back to the source",
+      "i had to work so hard",
+      "perhaps it would be better",
+      "to be blind and deaf",
+      "being in the hut",
+      "i do not see what is outside",
+      "the river flowing tranquilly",
+      "the flower simply being red",
+      "he enters the city barefoot",
+      "with chest exposed",
+      "covered in dust and ashes",
+      "smiling broadly",
+      "no need for the magic powers",
+      "of the gods and immortals",
+      "just let the dead tree bloom again",
       ];
 
+      const textContainer = document.getElementById("text-container");
       let currentIndex = 0;
 
-      function fadeText() {
-        const container = document.getElementById("text-container");
-        const textElement = document.createElement("div");
-        textElement.classList.add("fade-text");
-        textElement.innerHTML = texts[currentIndex];
-
-        container.innerHTML = ""; // Clear the previous text
-        container.appendChild(textElement);
-
+      function showNextText() {
+        textContainer.style.opacity = "0"; // Start fade-out
         setTimeout(() => {
-          textElement.style.opacity = 1;
-        }, 50); // Give it a small delay to apply the fade-in
+          textContainer.textContent = textList[currentIndex]; // Update text
+          textContainer.style.opacity = "1"; // Fade-in
 
-        setTimeout(() => {
-          textElement.style.opacity = 0;
-        }, 3000); // Fade out after 3 seconds
-
-        currentIndex = (currentIndex + 1) % texts.length; // Loop through the text array
+          currentIndex = (currentIndex + 1) % textList.length; // Move to next text
+        }, 1000); // Wait for fade-out duration
       }
 
-      setInterval(fadeText, 4000); // Change text every 4 seconds
-
-      // Initial call to show the first text
-      fadeText();
+      // Start the loop
+      setInterval(showNextText, 3700); // Adjust for fade-in + fade-out + pause
+      showNextText(); // Show the first text immediately
     </script>
   </body>
 </html>

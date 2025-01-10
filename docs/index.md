@@ -1,6 +1,8 @@
 
 ## buddhism study journals
 
+[bulls](html/ox.html){ .md-button }
+
 ![ramen](images/ramen.jpeg)
 
 ![seated](images/Seated_Buddha.Gandhara.Asian_ArtMuseum.jpg)
