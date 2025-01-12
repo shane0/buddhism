@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>mind ground meditation</title>
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- jQuery (for stock tickers) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+      :root {
+        /* Variables for controlling the speed of animations */
+        --top-ticker-speed: 20s;
+        --bottom-ticker-speed: 22s;
+        --fade-speed: 4s;
+      }
+
+      body {
+        background-color: black;
+        color: darkred;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        font-size: 40px;
+        flex-direction: column;
+        font-family: sans-serif;
+        font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial,
+          sans-serif;
+      }
+
+      /* Flex layout to push the tickers to top and bottom */
+      .container {
+        flex-grow: 1;
+      }
+
+      .ticker-row {
+        flex-shrink: 0;
+      }
+
+      .ticker {
+        background-color: black;
+        padding: 10px;
+        color: darkred;
+        white-space: nowrap;
+        overflow: hidden;
+        font-size: 18px;
+      }
+
+      /* Top ticker (scrolling right to left) */
+      .ticker-top .ticker-text {
+        display: inline-block;
+        padding-left: 100%;
+        animation: ticker-top var(--top-ticker-speed) linear infinite;
+      }
+
+      @keyframes ticker-top {
+        from {
+          transform: translateX(100%);
+        }
+        to {
+          transform: translateX(-100%);
+        }
+      }
+
+      /* Bottom ticker (scrolling left to right) */
+      .ticker-bottom .ticker-text {
+        display: inline-block;
+        padding-right: 100%;
+        animation: ticker-bottom var(--bottom-ticker-speed) linear infinite;
+      }
+
+      @keyframes ticker-bottom {
+        from {
+          transform: translateX(-100%);
+        }
+        to {
+          transform: translateX(100%);
+        }
+      }
+
+      .fade-text {
+        display: inline-block;
+        opacity: 0;
+        animation: fade var(--fade-speed) ease-in-out infinite;
+      }
+
+      @keyframes fade {
+        0%,
+        100% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+        }
+      }
+
+      .fade-message {
+        margin-top: 20px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Top Ticker Row -->
+    <div class="ticker-row ticker-top">
+      <div class="ticker">
+        <div class="ticker-text" id="top-ticker">
+          <!-- Stock symbols will be updated dynamically -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Centered Fading Text -->
+      <div class="fade-message">
+        <span class="fade-text" id="fade-text">
+          <!-- Fading text will be updated dynamically -->
+        </span>
+      </div>
+    </div>
+
+    <!-- Bottom Ticker Row -->
+    <div class="ticker-row ticker-bottom">
+      <div class="ticker">
+        <div class="ticker-text" id="bottom-ticker">
+          <!-- Stock symbols will be updated dynamically -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap JS (for any future interactions) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+      // Lists of stock tickers for top and bottom
+      const topTickerList = [
+        "MIND GROUND ",
+        "remain focused mindful confident",
+        "be aware and still",
+        "abide nowhere",
+        "let go",
+        "all experiences in meditation are illusory and insubstantial",
+        "seek nothing and obtain nothing",
+      ];
+
+      const bottomTickerList = [
+        "MIND GROUND ",
+        "remain focused mindful confident",
+        "be aware and still",
+        "abide nowhere",
+        "let go",
+        "all experiences in meditation are illusory and insubstantial",
+        "seek nothing and obtain nothing",
+      ];
+
+      // List of fading text messages
+      const fadeTextList = [
+        "Breathing in a long breath, I know I am breathing in a long breath",
+        "Breathing out a long breath, I know I am breathing out a long breath",
+        "Breathing in a short breath, I know I am breathing in a short breath",
+        "Breathing out a short breath, I know I am breathing out a short breath",
+        "Breathing in, I am aware of my whole body",
+        "Breathing out, I am aware of my whole body",
+        "He or she practices like this",
+        "Breathing in, I calm my whole body",
+        "Breathing out, I calm my whole body",
+        "He or she practices like this",
+        "Breathing in, I feel joyful",
+        "Breathing out, I feel joyful",
+        "He or she practices like this",
+        "Breathing in, I feel happy",
+        "Breathing out, I feel happy",
+        "He or she practices like this",
+        "Breathing in, I am aware of my mental formations",
+        "Breathing out, I am aware of my mental formations",
+        "He or she practices like this",
+        "Breathing in, I calm my mental formations",
+        "Breathing out, I calm my mental formations",
+        "He or she practices like this",
+        "Breathing in, I am aware of my mind",
+        "Breathing out, I am aware of my mind",
+        "He or she practices like this",
+        "Breathing in, I make my mind happy",
+        "Breathing out, I make my mind happy",
+        "He or she practices like this",
+        "Breathing in, I concentrate my mind",
+        "Breathing out, I concentrate my mind",
+        "He or she practices like this",
+        "Breathing in, I liberate my mind",
+        "Breathing out, I liberate my mind",
+        "He or she practices like this",
+        "Breathing in, I observe the impermanent nature of all dharmas",
+        "Breathing out, I observe the impermanent nature of all dharmas",
+        "He or she practices like this",
+        "Breathing in, I observe the disappearance of desire",
+        "Breathing out, I observe the disappearance of desire",
+        "He or she practices like this",
+        "Breathing in, I observe the no-birth, no-death nature of all phenomena",
+        "Breathing out, I observe the no-birth, no-death nature of all phenomena.’ He or she practices like this",
+        "Breathing in, I observe letting go",
+        "Breathing out, I observe letting go",
+        "He or she practices like this",
+      ];
+
+      let currentTopIndex = 0;
+      let currentBottomIndex = 0;
+      let currentFadeIndex = 0;
+
+      // Function to update the top ticker text
+      function updateTopTicker() {
+        document.getElementById("top-ticker").textContent =
+          topTickerList[currentTopIndex];
+        currentTopIndex = (currentTopIndex + 1) % topTickerList.length;
+      }
+
+      // Function to update the bottom ticker text
+      function updateBottomTicker() {
+        document.getElementById("bottom-ticker").textContent =
+          bottomTickerList[currentBottomIndex];
+        currentBottomIndex = (currentBottomIndex + 1) % bottomTickerList.length;
+      }
+
+      // Function to update the fading text
+      function updateFadeText() {
+        document.getElementById("fade-text").textContent =
+          fadeTextList[currentFadeIndex];
+        currentFadeIndex = (currentFadeIndex + 1) % fadeTextList.length;
+      }
+
+      // Initial updates
+      updateTopTicker();
+      updateBottomTicker();
+      updateFadeText();
+
+      // Set intervals to update ticker texts and fading text
+      setInterval(updateTopTicker, 2000); // Update every 20 seconds (matches the ticker speed)
+      setInterval(updateBottomTicker, 2500); // Update every 20 seconds (matches the ticker speed)
+      setInterval(updateFadeText, 4000); // Update every 5 seconds (matches the fade speed)
+    </script>
+  </body>
+</html>
