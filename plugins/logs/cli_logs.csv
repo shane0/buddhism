@@ -82,3 +82,12 @@ timestamp,level,module,message
 2025-01-14T12:32 - INFO - cli.py bujo bujo
 2025-01-14T12:32 - INFO - Loading command: bujo
 2025-01-14T12:32 - INFO - Loading command: bujo
+2025-01-19T12:59 - ERROR - Error loading cli.py l: [Errno 2] No such file or directory: '/Users/shanenull/github_repos/buddhism/plugins/l.py'
+2025-02-28T09:57 - INFO - cli.py bujo loaded successfully.
+2025-02-28T09:57 - INFO - cli.py bujo loaded successfully.
+2025-02-28T09:57 - INFO - cli.py bujo
+2025-02-28T09:57 - INFO - cli.py bujo
+2025-02-28T09:57 - INFO - cli.py bujo bujo
+2025-02-28T09:57 - INFO - cli.py bujo bujo
+2025-02-28T09:57 - INFO - Loading command: bujo
+2025-02-28T09:57 - INFO - Loading command: bujo
