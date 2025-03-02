@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>daily ego smelter</title>
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+
+    <!-- jQuery (for stock tickers) -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+      :root {
+        /* Variables for controlling the speed of animations */
+        --top-ticker-speed: 20s;
+        --bottom-ticker-speed: 22s;
+        --fade-speed: 4s;
+      }
+
+      body {
+        background-color: black;
+        color: darkred;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        font-size: 40px;
+        flex-direction: column;
+        font-family: sans-serif;
+        font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial,
+          sans-serif;
+      }
+
+      /* Flex layout to push the tickers to top and bottom */
+      .container {
+        flex-grow: 1;
+      }
+
+      .ticker-row {
+        flex-shrink: 0;
+      }
+
+      .ticker {
+        background-color: black;
+        padding: 10px;
+        color: darkred;
+        white-space: nowrap;
+        overflow: hidden;
+        font-size: 18px;
+      }
+
+      /* Top ticker (scrolling right to left) */
+      .ticker-top .ticker-text {
+        display: inline-block;
+        padding-left: 100%;
+        animation: ticker-top var(--top-ticker-speed) linear infinite;
+      }
+
+      @keyframes ticker-top {
+        from {
+          transform: translateX(100%);
+        }
+        to {
+          transform: translateX(-100%);
+        }
+      }
+
+      /* Bottom ticker (scrolling left to right) */
+      .ticker-bottom .ticker-text {
+        display: inline-block;
+        padding-right: 100%;
+        animation: ticker-bottom var(--bottom-ticker-speed) linear infinite;
+      }
+
+      @keyframes ticker-bottom {
+        from {
+          transform: translateX(-100%);
+        }
+        to {
+          transform: translateX(100%);
+        }
+      }
+
+      .fade-text {
+        display: inline-block;
+        opacity: 0;
+        animation: fade var(--fade-speed) ease-in-out infinite;
+      }
+
+      @keyframes fade {
+        0%,
+        100% {
+          opacity: 0;
+        }
+        50% {
+          opacity: 1;
+        }
+      }
+
+      .fade-message {
+        margin-top: 20px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Top Ticker Row -->
+    <div class="ticker-row ticker-top">
+      <div class="ticker">
+        <div class="ticker-text" id="top-ticker">
+          <!-- Stock symbols will be updated dynamically -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Centered Fading Text -->
+      <div class="fade-message">
+        <span class="fade-text" id="fade-text">
+          <!-- Fading text will be updated dynamically -->
+        </span>
+      </div>
+      <div>
+        <a href="https://forms.gle/3YXGiiSiXVboRetz8">level 3 form</a>
+        <a href="https://shanenull.com/buddhism/2024/level_3/">level 3 page</a>
+      </div>
+    </div>
+
+    <!-- Bottom Ticker Row -->
+    <div class="ticker-row ticker-bottom">
+      <div class="ticker">
+        <div class="ticker-text" id="bottom-ticker">
+          <!-- Stock symbols will be updated dynamically -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap JS (for any future interactions) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+      const topTickerList = ["level 3"];
+
+      const bottomTickerList = ["level 3"];
+
+      // List of fading text messages
+      const fadeTextList = [
+        "Entering by Practice",
+        "four practices that encompass all other practices",
+        "Essence of Mahayana Practice (pdf)",
+        "ACCEPTING ADVERSITY",
+        "What is the practice of accepting adversity? When suffering, a practitioner of the Way should reflect:",
+        "For innumerable kalpas, I have pursued the trivial instead of the essential, drifted through all spheres of existence, created much animosity and hatred, maligned and harmed  others endlessly. Even though now I have done no wrong, I am reaping the karmic consequences of past transgressions. It is something that neither the heavens nor other people can impose upon me. Therefore I should accept it willingly, without any resentment or objection.",
+        "ADAPTING TO CONDITIONS",
+        "Sentient beings are without a self, being steered by karmic conditions.",
+        "Suffering and joy are experienced together as a result of causes and conditions.",
+        "Any reward, blessing or honor is a consequence of past causes; nothing remains when the necessary conditions are exhausted.",
+        "So what is there to be joyful about? Knowing that success and failure depend on conditions, the mind remains unmoved by the wind of joy, experiencing neither gain nor loss.",
+        "This is to be in harmony with the Way. Therefore it is called the practice of adapting to conditions",
+        "SEEKING NOTHING",
+        "Third, to seek nothing.",
+        "Ordinary people, in their perpetual ignorance, crave and form attachments to everything, everywhere.",
+        "This is called seeking.",
+        "The wise are awakened to the Truth, and choose reason over convention; even though their forms follow the law of causality, their minds are at peace and empty of effort.",
+        "Since all existence is empty , there is nothing to be desired.",
+        "Blessing and Darkness always follow each other.",
+        "This long sojourn in the Triple Realm is like living in a burning house; to have a body is to suffer, how can one attain peace? Those who understand this renounce all mundane existence, cease desires, and stop seeking.",
+        "The sutra says, “To seek is to suffer, to seek nothing is bliss.”",
+        "It follows that to seek nothing is to truly follow the Way. This is the practice of seeking nothing.",
+        "ACTING IN ACCORDANCE WITH THE DHARMA",
+        "Fourth, to act in accordance with the Dharma.",
+        "The principle of intrinsic purity is the Dharma.",
+        "By this principle, all forms and characteristics are empty, without defilement and attachment, without self or others.",
+        "The sutra says, “In the Dharma there are no sentient beings, because it is free of the impurities of sentient beings.",
+        "In the Dharma there is no self, because it is free of the impurities of self.”",
+        "When the wise believe in and understand this principle, they should also act in accordance with the Dharma.",
+        "There is no parsimony in the Dharma, so practice the giving of body, life, and possessions without any reservation.",
+        "Understand and achieve “triple emptiness”, with no reliance and no attachment.",
+        "One liberates others without becoming attached to form, thus removing impurities.",
+        "This benefits oneself, benefits others, and also glorifies the bodhi path .",
+        "Dana is perfected this way; so are the other five paramitas.",
+        "In order to relinquish delusions, one practices these six perfections, yet nothing is practiced.",
+        "This is to act in accordance with the Dharma.",
+      ];
+
+      let currentTopIndex = 0;
+      let currentBottomIndex = 0;
+      let currentFadeIndex = 0;
+
+      // Function to update the top ticker text
+      function updateTopTicker() {
+        document.getElementById("top-ticker").textContent =
+          topTickerList[currentTopIndex];
+        currentTopIndex = (currentTopIndex + 1) % topTickerList.length;
+      }
+
+      // Function to update the bottom ticker text
+      function updateBottomTicker() {
+        document.getElementById("bottom-ticker").textContent =
+          bottomTickerList[currentBottomIndex];
+        currentBottomIndex = (currentBottomIndex + 1) % bottomTickerList.length;
+      }
+
+      // Function to update the fading text
+      function updateFadeText() {
+        document.getElementById("fade-text").textContent =
+          fadeTextList[currentFadeIndex];
+        currentFadeIndex = (currentFadeIndex + 1) % fadeTextList.length;
+      }
+
+      // Initial updates
+      updateTopTicker();
+      updateBottomTicker();
+      updateFadeText();
+
+      // Set intervals to update ticker texts and fading text
+      setInterval(updateTopTicker, 2000); // Update every 20 seconds (matches the ticker speed)
+      setInterval(updateBottomTicker, 2500); // Update every 20 seconds (matches the ticker speed)
+      setInterval(updateFadeText, 4000); // Update every 5 seconds (matches the fade speed)
+    </script>
+  </body>
+</html>
